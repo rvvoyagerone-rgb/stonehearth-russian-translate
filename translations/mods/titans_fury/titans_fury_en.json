@@ -1,0 +1,189 @@
+{
+  "data": {
+	"commands": {
+		"teleport_squid": {
+		    "display_name": "Teleport!",
+            "description": "Fly through a rift portal to the chosen spot."			
+		},
+		"undeploy_builder_squid": {
+            "display_name": "Undeploy Squid Builder",
+            "description": "Deactivate this builder and return it to a stockpile.",
+            "disabled_description": "Cannot deactivate at this time."
+         }
+	},
+    "weather": {
+	   "doomstorm": {
+         "display_name": "Doomstorm",
+         "description": "Beware the Titan's wrath.<ul><li>⛅ Extremely reduced sunlight levels</li><li>⚡ Lightning strikes hurt their unlucky targets.</li><li>👀 Vision radius is reduced.</li><li>📌 Clouds of doom pass across the landscape, destroying crops and hurting everyone.</li></ul>"
+       }		   
+	}
+  },
+  "entities": {
+    "corruption": {
+	   "corrupt_little_stone_golem": {
+          "display_name": "Doom Stoneling"
+	   },
+       "corrupt_snake": {
+          "display_name": "Doom Snake"
+	   },
+       "corrupt_varanus": {
+          "display_name": "Doom Varanus"
+	   },
+	   "corrupt_beetle": {
+            "display_name": "Doom Crawler",
+            "description": "Small, but ravenous."
+       },
+       "corrupt_tentacle_notification": {
+            "tentacle_notification": {
+               "display_name": "Warning Tentacle",
+               "description": "Signifies the presence of something evil."
+            }
+       } 	   
+	},
+	"decoration": {
+		"doom_disruptor": {
+            "doom_disruptor_ghost": {
+               "display_name": "Doom Disruptor",
+               "description": "Disrupts further Doom events from starting, if placed down."
+            }
+        },
+		"firepit_titan": {
+            "firepit_titan_ghost": {
+               "display_name": "Doom Portal",
+               "description": "You can hear chittering from beyond the threshold..."
+            }
+         }
+	},
+	"gizmos": {
+		"root_of_evil": {
+            "display_name": "Root of Doom",
+            "description": "Kill it! Kill it with fire! (or Harvest it!)"
+         },
+         "tentacle_trap": {
+            "display_name": "Tentacle Trap",
+            "description": "Grabs anyone who passes close by."
+         }
+	},
+	"titan": {
+		"corrupt_squid": {
+          "display_name": "Titan's Shadow",
+		  "reveal": "Titan's Shadow: The Doombringer",
+		  "description": "Very grumpy today, we're all doomed."
+	   },
+       "corrupt": {
+               "corrupt_zilla": {
+                  "display_name": "Doom Wyrm",
+                  "description": "Evil. Hungry."
+               },
+               "corrupt_hearthling": {
+                  "display_name": "Doom Shadow",
+                  "description": "A shadow of its former self"
+               },
+               "corrupt_wolf": {
+                  "display_name": "Doom Beast",
+                  "description": "The hunter at the end of the world"
+               }
+       }	   
+    },
+	"food": {
+         "berries": {
+            "corrupt_berry_basket": {
+               "display_name": "Doom Berries Basket",
+               "description": "Should we eat these?"
+            },
+            "corrupt_berry_serving": {
+               "display_name": "Plate of Doom Berries",
+               "description": "It tastes awful."
+            }
+         }
+	},
+	"loot": {
+         "currency": {
+            "doomstone": {
+               "display_name": "Doomstone Cube",
+               "description": "A trophy from doomed, abyssal beings... Must have a great value!"
+            }
+         }
+    },
+	"plants": {
+         "bramble": {
+            "bramble": {
+               "display_name": "Doom Bramble",
+               "description": "Clear it with Harvest!"
+            }
+		 }
+	},
+	"tools": {
+		"builder_squid": {
+          "display_name": "Doom Squid Builder",
+          "description": "Builds structures and mines blocks."
+	   }
+	},
+	"weapons": {
+	   "doom_sub_xbow": {
+          "display_name": "Doom Crossbow",
+          "description": "Archer sub-weapon that fires a triple damage shot"
+	   }		   
+	}
+  },
+  "jobs": {
+	"builder": {
+         "builder_description": {
+            "display_name": "Builder",
+            "description": "Builders perform basic tasks like constructing buildings, and placing items.",
+            "requirements": "Be placed into the world to become activated.",
+            "level_0_data": {
+               "title": "Builder"
+            }
+         }
+	}
+  },
+  "ui": {
+	"game": {
+		"bulletin": {
+		  "doomstone_item_type_choice": {
+			   "dialog_title": "The Doomstone Exchange collects Doomstone Cubes",
+               "title": "The Doomstone Exchange has an offer!",
+               "banner_prompt": "Choose an item:",
+               "complete": "✔️ OK!",
+			   "doom_squid_builder": {
+                     "name": "Doom Squid Builder",
+                     "description": "A mysterious creature that will assist with building, or mining tasks.",
+					 "cost": "Cost: 8 Doomstone Cubes"
+                },
+                "doom_crossbow": {
+                     "name": "Doom Crossbow sub-weapon",
+                     "description": "An Archer sub-weapon, fires a triple damage shot.",
+					 "cost": "Cost: 14 Doomstone Cubes"
+                },
+				"doom_disruptor": {
+                     "name": "Doom Disruptor",
+                     "description": "A Device that halts further Doom events, if placed down.",
+					 "cost": "Cost: 28 Doomstone Cubes"
+                },
+				"none": {
+                     "name": "",
+                     "description": "<i>Decline trade offer,<br> maybe next time.</i>"
+                },
+				"doomstone_offer": {
+                  "title_doom_squid_builder": "Exchange for Doom Squid Builder",
+				  "title_doom_crossbow": "Exchange for Doom Crossbow",
+				  "title_doom_disruptor": "Exchange for Doom Disruptor",
+                  "trade_details": "A Doomstone Exchanger offers <strong>[str(i18n_data.reward_number)] [str(i18n_data.reward_item)]</strong>. If you gather <strong>[str(i18n_data.want_number)] [str(i18n_data.want_item)]</strong>, the Doomstone Exchanger will return with your item in [str(i18n_data.num_days)] day.",
+                  "waiting_title": "Doomstone Exchanger will be back in [str(i18n_data.hour_counter)] [str(i18n_data.period)]!",
+                  "waiting_text": "A Doomstone Exchanger will be back in [str(i18n_data.hour_counter)] [str(i18n_data.period)] to give you <strong>[str(i18n_data.reward_number)] [str(i18n_data.reward_item)]</strong> if you have <strong>[str(i18n_data.want_number)] [str(i18n_data.want_item)]</strong> ready!",
+                  "return_title": "Doomstone Exchanger returns!",
+                  "return_greetings_positive": "I'm back! It looks like you've gathered the [str(i18n_data.want_number)] [str(i18n_data.want_item)] I asked for. Are you still interested in [str(i18n_data.reward_number)] [str(i18n_data.reward_item)] in exchange?",
+                  "return_greetings_negative": "I'm back, but it doesn't look like you've got the [str(i18n_data.want_number)] [str(i18n_data.want_item)] I asked for. Oh well, maybe next time."
+               }
+            }
+		},
+		"entities": {
+	       "item_categories": {
+			  "doomstone_creations": "Doomstone Creations"
+	       }
+	    }
+	},
+	"spawn_new_squid": "Spawn Titan's Shadow"  
+  }
+}

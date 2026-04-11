@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "game": {
+	   "entities": {
+	       "item_categories": {
+			  "battle_beacons": "Battle Beacons"
+	       }
+	   }
+	}
+  },
+  "data": {
+    "gm": {
+	  "campaigns": {
+	        "battle_break_campaign": {
+		       "guide_arrival": {
+                  "dialog_info": {
+                     "dialog_nodes": {
+                        "msg1": {
+                           "bulletin_message": {
+                              "00": "Excuse me, fine fellows of this settlement.  Sir Beacon here, with some news to share!<br>It's your lucky day! For you see, off in the distance these lands are being protected by other well developed kingdoms.  We share the task of defending against wandering monsters, and fight in the Goblin and Orc wars.<br><br>I send messages all around, so I'll tell you about our developed system."
+                           },
+                           "bulletin_title": "Sir Beacon, the messenger",
+                           "dialog_title": "Strong Neighbors",
+                           "choice_000": "They are kind to help us"
+                        },
+						"msg2": {
+                           "bulletin_message": {
+                              "00": "Right now is your first Battle Break, which you can use to develop your town, safely.  Lots of time to craft and build.<br>But I'm giving you some of our beacon flags (Battle Ready Beacons), and if I see them placed here, it lets me know that you are ready for fighting your own battles! The other kingdoms can then have their own break, by storing away their flags.<br><p align='left'><font size=-1 color='#cccccc'><i>\"When you want another Battle Break, just grab the flag, and put it away in storage until next time.\"</i></font>"
+                           },
+                           "bulletin_title": "The Battle Break",
+                           "dialog_title": "Battle Breaktime",
+                           "choice_000": "Battle Ready Beacons"
+                        }
+                     }
+                  }
+               },
+			   "battle_standards": {
+                  "dialog_info": {
+                     "dialog_nodes": {
+                        "msg1": {
+                           "bulletin_message": {
+                              "00": "<br>When it is placed in the world,<br>it signals that you are ready for <br>periodic random attacks by <br>monsters and wild invaders.<br>"
+                           },
+                           "bulletin_title": "The Battle Ready Beacon",
+                           "dialog_title": "Battle Ready",
+                           "choice_000": "And another beacon..."
+                        },
+						"msg2": {
+                           "bulletin_message": {
+                              "00": "<br>When it is placed in the world,<br>it signals that you are ready for <br>periodic attacks launched by <br>organized war camps, if they have arrived.<br>"
+                           },
+                           "bulletin_title": "The Goblin and Orc War Ready Beacon",
+                           "dialog_title": "War Ready",
+                           "choice_000": "Ok"
+                        }
+                     }
+                  }
+               },
+			   "replace_ata_dialog": {
+                  "dialog_info": {
+                     "dialog_nodes": {
+                        "msg1": {
+                           "bulletin_message": {
+                              "00": "Here is a new battle flag.<br>It replaces your old one,<br>which seems to be missing.<br>"
+                           },
+                           "bulletin_title": "A Replacement Beacon",
+                           "dialog_title": "Battle Ready Beacon",
+                           "choice_000": "Thanks"
+                        }
+                     }
+                  }
+               },
+			   "replace_gow_dialog": {
+                  "dialog_info": {
+                     "dialog_nodes": {
+                        "msg1": {
+                           "bulletin_message": {
+                              "00": "Here is a new war flag.<br>It replaces your old one,<br>which seems to be missing.<br>"
+                           },
+                           "bulletin_title": "A Replacement Beacon",
+                           "dialog_title": "Goblin and Orc War Beacon",
+                           "choice_000": "Thanks"
+                        }
+                     }
+                  }
+               }
+	        }   
+	   }
+    }
+  },
+  "battle_beacons_name": "Battle Beacons",
+  "entities": {
+    "gizmos": {
+       "ambient_threat_allow": {
+	     "display_name": "Battle Ready Beacon",
+		 "description": "If placed: Ambient attacks can spawn. In Storage: Battle Break."
+	   },
+	   "goblin_war_allow": {
+	     "display_name": "Goblin and Orc War Ready Beacon",
+		 "description": "If placed: War Goblin or War Orc attacks can spawn. In Storage: Battle Break."
+	   }
+    }	
+  }
+}

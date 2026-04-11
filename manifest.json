@@ -1,0 +1,84 @@
+{
+	"info" : {
+		"name" : "Russian Language",
+		"namespace" : "ru_lang",
+		"version" : 3,
+		"steam_file_id" : "3466283052",
+		"client_only" : true
+	},
+	"default_locale" : "en",
+	"aliases" : {},
+	"mixintos" : {
+		"stonehearth/locales/supported_languages.json": "file(added_languages.json)",
+		"stonehearth/locales/ru.json": "stonehearth_ace/locales/ru_mixin.json",
+		
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_blacksmith_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_blacksmith_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_blacksmith_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_blacksmith_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_carpenter_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_carpenter_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_carpenter_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_carpenter_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_cook_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_cook_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_cook_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_cook_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_engineer_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_engineer_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_engineer_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_engineer_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_farmer_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_farmer_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_farmer_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_farmer_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_herbalist_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_herbalist_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_herbalist_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_herbalist_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_mason_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_mason_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_mason_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_mason_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_shepherd_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_shepherd_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_shepherd_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_shepherd_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_trapper_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_trapper_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_trapper_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_trapper_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/heavy_winter_weaver_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_weaver_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_weaver_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_weaver_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_knight_silver_rc_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_knight_silver_rc_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_knight_silver_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_knight_silver_recipe.json)",
+		"winter_outfits/jobs/weaver/recipes/winter_knight_steel_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_knight_steel_recipe.json)",
+		
+		"wizq/jobs/wizard/wizard_description.json": "file(translations/mods/wizq/wizard_description_ru.json)"
+		
+	},
+	"overrides" : {
+		"stonehearth/locales/ru.json": "file(translations/stonehearth/st_ru.json)",
+		"rayyas_children/locales/ru.json": "file(translations/rayyas_children/rc_ru.json)",
+		"northern_alliance/locales/ru.json": "file(translations/northern_alliance/na_ru.json)",
+		
+		"stonehearth_ace/locales/ru.json":  "file(translations/mods/stonehearth_ace/ace_ru.json)",
+		"stonehearth_ace/locales/ru_mixin.json": "file(translations/mods/stonehearth_ace/ace_mixin_ru.json)",
+		"ace_composting/locales/ru.json": "file(translations/mods/ace_composting/ru.json)",
+		
+		"autoharvest_mod/locales/ru.json": "file(translations/mods/autoharvest_mod/ru.json)",
+		"battle_break/locales/ru.json": "file(translations/mods/battle_break/ru.json)",
+		"box_o_vox/locales/ru.json": "file(translations/mods/box_o_vox/ru.json)",
+		"care_cats/locales/ru.json": "file(translations/mods/care_cats/ru.json)",
+		"chimney_emitters/locales/ru.json": "file(translations/mods/chimney_emitters/ru.json)",
+		"core_dani/locales/ru.json": "file(translations/mods/core_dani/ru.json)",
+		"ethereal_storage/locales/ru.json": "file(translations/mods/ethereal_storage/ru.json)",
+		"extra_map_options/locales/ru.json": "file(translations/mods/extra_map_options/ru.json)",
+		"extraload/locales/ru.json": "file(translations/mods/loadouts/ru.json)",
+		"finery/locales/ru.json": "file(translations/mods/finery/ru.json)",
+		"hunter/locales/ru.json": "file(translations/mods/hunter/ru.json)",
+		"kmnky_traits/locales/ru.json": "file(translations/mods/kmnky_traits/ru.json)",
+		"miner_prof/locales/ru.json": "file(translations/mods/miner_prof/ru.json)",
+		"mini_helpers/locales/ru.json": "file(translations/mods/mini_helpers/ru.json)",
+		"nordlingmod/locales/ru.json": "file(translations/mods/nordlingmod/ru.json)",
+		"primitive_armory/locales/ru.json": "file(translations/mods/primitive_armory/ru.json)",
+		"royal/locales/ru.json": "file(translations/mods/royal/ru.json)",
+		"stonehearth_beam/locales/ru.json": "file(translations/mods/stonehearth_beam/ru.json)",
+		"titans_fury/locales/ru.json": "file(translations/mods/titans_fury/ru.json)",
+		"training_manuals/locales/ru.json": "file(translations/mods/training_manuals/ru.json)",
+		"signery/locales/ru.json": "file(translations/mods/signery/ru.json)",
+		"swamp_goblins/locales/ru.json": "file(translations/mods/swamp_goblins/ru.json)",
+		"trapper_plus/locales/ru.json": "file(translations/mods/trapper_plus/ru.json)",
+		"winter_outfits/locales/ru.json": "file(translations/mods/winter_outfits/ru.json)",
+		"wizq/locales/en.json": "file(translations/mods/wizq/ru.json)"
+	},
+	"ui": {
+      "less": [
+         "file(ui/root/css/mixins.less)"
+      ]
+	},
+	"components" : {},
+	"controllers" : {}
+}

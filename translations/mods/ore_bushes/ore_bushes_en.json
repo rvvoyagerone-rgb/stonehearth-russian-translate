@@ -1,0 +1,326 @@
+{
+	"entities": {
+		"plants": {
+			"coal_bush": {
+				"coal_bush_ghost": {
+					"display_name": "Raw Coal Bush",
+					"description": "Can be shaved for raw coal and more coal bush seeds."
+				},
+				"stem": {
+					"coal_bush_stem": {
+						"display_name": "Stemming Coal Bush",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"coal_bush_sprout": {
+						"display_name": "Coal Bush Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"coal_bush_seed": {
+						"display_name": "Coal Bush Seed",
+						"description": "Can be planted to grow a coal bush that can be shaved for raw coal."
+					},
+					"coal_bush_seed_ghost": {
+						"display_name": "Coal Bush Seed",
+						"description": "Can be planted to grow a coal bush that can be shaved for raw coal."
+					}
+				},
+				"bud": {
+					"coal_bush_bud": {
+						"display_name": "Budding Coal Bush",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"copper_flower": {
+				"copper_flower_ghost": {
+					"display_name": "Copper Flower",
+					"description": "Harvestable for concentrated copper ore and more Copper flower seeds."
+				},
+				"stem": {
+					"copper_flower_stem": {
+						"display_name": "Stemming Copper Flower",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"copper_flower_sprout": {
+						"display_name": "Copper Flower Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"copper_flower_seed": {
+						"display_name": "Copper Flower Seed",
+						"description": "Can be planted to grow a Copper flower that grows copper ore."
+					},
+					"copper_flower_seed_ghost": {
+						"display_name": "Copper Flower Seed",
+						"description": "Can be planted to grow a Copper flower that grows copper ore."
+					}
+				},
+				"bud": {
+					"copper_flower_bud": {
+						"display_name": "Budding Copper Flower",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"gold_bush": {
+				"gold_bush_ghost": {
+					"display_name": "Gold Ore Bush",
+					"description": "Can be shaved for concentrated gold ore and more gold ore bush seeds."
+				},
+				"stem": {
+					"gold_bush_stem": {
+						"display_name": "Stemming Gold Ore Bush",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"gold_bush_sprout": {
+						"display_name": "Gold Ore Bush Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"gold_bush_seed": {
+						"display_name": "Gold Ore Bush Seed",
+						"description": "Grows into a gold ore bush that generates gold ore."
+					},
+					"gold_bush_seed_ghost": {
+						"display_name": "Gold Ore Bush Seed",
+						"description": "Grows into a gold ore bush that generates gold ore."
+					}
+				},
+				"bud": {
+					"gold_bush_bud": {
+						"display_name": "Budding Gold Ore Bush",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"iron_bush": {
+				"iron_bush_ghost": {
+					"display_name": "Iron Bush",
+					"description": "Harvestable for concentrated iron ore and more iron bush seeds."
+				},
+				"stem": {
+					"iron_bush_stem": {
+						"display_name": "Stemming Iron Bush",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"iron_bush_sprout": {
+						"display_name": "Iron Bush Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"iron_bush_seed": {
+						"display_name": "Iron Bush Seed",
+						"description": "Can be planted to grow an iron bush that grows iron ore."
+					},
+					"iron_bush_seed_ghost": {
+						"display_name": "Iron Bush Seed",
+						"description": "Can be planted to grow an iron bush that grows iron ore."
+					}
+				},
+				"bud": {
+					"iron_bush_bud": {
+						"display_name": "Budding Iron Bush",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"silver_bush": {
+				"silver_bush_ghost": {
+					"display_name": "Silver Ore Bush",
+					"description": "Can be shaved for concentrated silver ore and more silver bush seeds."
+				},
+				"stem": {
+					"silver_bush_stem": {
+						"display_name": "Stemming Silver Ore Bush",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"silver_bush_sprout": {
+						"display_name": "Silver Ore Bush Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"silver_bush_seed": {
+						"display_name": "Silver Ore Bush Seed",
+						"description": "Grows into a silver ore bush that generates silver ore."
+					},
+					"silver_bush_seed_ghost": {
+						"display_name": "Silver Ore Bush Seed",
+						"description": "Grows into a silver ore bush that generates silver ore."
+					}
+				},
+				"bud": {
+					"silver_bush_bud": {
+						"display_name": "Budding Silver Ore Bush",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"tin_flower": {
+				"tin_flower_ghost": {
+					"display_name": "Tin Flower",
+					"description": "Harvestable for concentrated tin ore and more Tin flower seeds."
+				},
+				"stem": {
+					"tin_flower_stem": {
+						"display_name": "Stemming Tin Flower",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"tin_flower_sprout": {
+						"display_name": "Tin Flower Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"tin_flower_seed": {
+						"display_name": "Tin Flower Seed",
+						"description": "Can be planted to grow a Tin flower that grows tin ore."
+					},
+					"tin_flower_seed_ghost": {
+						"display_name": "Tin Flower Seed",
+						"description": "Can be planted to grow a Tin flower that grows tin ore."
+					}
+				},
+				"bud": {
+					"tin_flower_bud": {
+						"display_name": "Budding Tin Flower",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			},
+			"natal_bell": {
+				"natal_bell_ghost": {
+					"display_name": "Natal Bell Flower",
+					"description": "Can be shaved for concentrated natallium, and the leaves can be picked for raw stone and more natal bell flower seeds."
+				},
+				"stem": {
+					"natal_bell_stem": {
+						"display_name": "Stemming Natal Bell Flower",
+						"description": "Still growing!"
+					}
+				},
+				"sprout": {
+					"natal_bell_sprout": {
+						"display_name": "Natal Bell Flower Sproutling",
+						"description": "Just needs some time and care."
+					}
+				},
+				"seed": {
+					"natal_bell_seed": {
+						"display_name": "Natal Bell Flower Seed",
+						"description": "Grows into a natal bell flower that generates natallium."
+					},
+					"natal_bell_seed_ghost": {
+						"display_name": "Natal Bell Flower Seed",
+						"description": "Grows into a natal bell flower that generates natallium."
+					}
+				},
+				"bud": {
+					"natal_bell_bud": {
+						"display_name": "Budding Natal Bell Flower",
+						"description": "Still just a bud sticking out of the ground. Hang in there, bud."
+					}
+				}
+			}
+		}
+	},
+	"jobs": {
+		"blacksmith": {
+			"recipes": {
+				"flower_transmute_name": "Flora Melting",
+				"copper_ore": {
+					"recipe_name": "Copper Ore (x3)",
+					"description": "Melting down a full Copper Flower into raw ore.",
+					"flavor": "First you craft the flower, now you melt it? Make up your mind..."
+				},
+				"tin_ore": {
+					"recipe_name": "Tin Ore (x3)",
+					"description": "Melting down a full Tin Flower into raw ore.",
+					"flavor": "First you craft the flower, now you melt it? Make up your mind..."
+				},
+				"raw_coal": {
+					"recipe_name": "Raw Coal (x2)",
+					"description": "Melting down a bush of coal into a few lumps.",
+					"flavor": "Careful to melt it and not stoke the fire with it..."
+				},
+				"iron_ore": {
+					"recipe_name": "Iron Ore (x2)",
+					"description": "Plenty of iron in this bush to melt down into a few raw ore.",
+					"flavor": "First you craft the flower, now you melt it? Make up your mind..."
+				},
+				"silver_ore": {
+					"recipe_name": "Silver Ore",
+					"description": "You get enough pure silver for a single ore.",
+					"flavor": "The Bush-to-Ore ratio seems a little off here..."
+				},
+				"gold_ore": {
+					"recipe_name": "Gold Ore",
+					"description": "Most of this bush is too impure to get a large amount of gold from melting it.",
+					"flavor": "Liquidating assets in a whole new way..."
+				},
+				"natallium": {
+					"recipe_name": "Raw Natallium",
+					"description": "This smaller flower only holds enough natallium to make one lump.",
+					"flavor": "Good thing this stuff isn't used for anything important... is it?"
+				}
+			}
+		},
+		"herbalist": {
+			"recipes": {
+				"metal_seeds_name": "Metallic Seeds",
+				"coal_bush_seeds": {
+					"recipe_name": "Coal Bush Seed",
+					"description": "A bush growing ready-to-burn coal.",
+					"flavor": "CAUTION! Do not plant around naked flames!"
+				},
+				"copper_flower_seeds": {
+					"recipe_name": "Copper Flower Seed",
+					"description": "A seed to grow your own copper ore plant!",
+					"flavor": "Should this even be possible...??"
+				},
+				"gold_bush_seeds": {
+					"recipe_name": "Gold Ore Bush Seed",
+					"description": "Basically growing your own money...",
+					"flavor": "Which I'm not entirely sure is legal..."
+				},
+				"iron_bush_seeds": {
+					"recipe_name": " Iron Ore Bush Seed",
+					"description": "The perfect bush for growing those big chunks of iron.",
+					"flavor": "Probably best not to kick it..."
+				},
+				"silver_bush_seeds": {
+					"recipe_name": "Silver Ore Bush Seed",
+					"description": "A metallic bush that generates silver ore.",
+					"flavor": "Wow, this thing must be worth a small fortune..."
+				},
+				"tin_flower_seeds": {
+					"recipe_name": "Tin Flower Seed",
+					"description": "A seed to grow your own tin ore plant!",
+					"flavor": "Won't be long before you have enough for a new roof..."
+				},
+				"natal_bell_seeds": {
+					"recipe_name": "Natal Bell Flower Seed",
+					"description": "Refining this mineral into a plant is tricky work!",
+					"flavor": "Maybe a little too tricky...woops - Crystallium II on attempting the first infusion."
+				}
+			}
+		}
+	}
+}

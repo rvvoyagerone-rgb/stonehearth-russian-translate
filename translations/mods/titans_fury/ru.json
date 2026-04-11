@@ -1,0 +1,189 @@
+{
+  "data": {
+	"commands": {
+		"teleport_squid": {
+		    "display_name": "Телепорт!",
+            "description": "Прыжок через портал разлома к выбранной точке."			
+		},
+		"undeploy_builder_squid": {
+            "display_name": "Деактивировать Кальмара-Строителя",
+            "description": "Деактивировать строителя и вернуть его на склад.",
+            "disabled_description": "Невозможно деактивировать в данный момент."
+         }
+	},
+    "weather": {
+	   "doomstorm": {
+            "display_name": "Буря Рока",
+            "description": "Берегитесь гнева Титана.<ul><li>⛅ Сильно сниженный уровень солнечного света</li><li>⚡ Молнии наносят урон неудачливым целям.</li><li>👀 Снижен радиус обзора.</li><li>📌 Облака рока разрушают посевы и причиняют вред всем живым существам.</li></ul>"
+       }		   
+	}
+  },
+  "entities": {
+    "corruption": {
+	   "corrupt_little_stone_golem": {
+          "display_name": "Стоулинг Рока"
+	   },
+       "corrupt_snake": {
+          "display_name": "Змей Рока"
+	   },
+       "corrupt_varanus": {
+          "display_name": "Варанус Рока"
+	   },
+	   "corrupt_beetle": {
+            "display_name": "Ползун Рока",
+            "description": "Маленький, но прожорливый."
+       },
+       "corrupt_tentacle_notification": {
+            "tentacle_notification": {
+               "display_name": "Предупреждающее Щупальце",
+               "description": "Означает присутствие чего-то зловещего."
+            }
+       } 	   
+	},
+	"decoration": {
+		"doom_disruptor": {
+            "doom_disruptor_ghost": {
+                "display_name": "Рассеиватель Рока",
+                "description": "Останавливает дальнейшие события Рока, если установлен."
+            }
+        },
+		"firepit_titan": {
+            "firepit_titan_ghost": {
+                "display_name": "Портал Рока",
+                "description": "Из-за порога доносится странный шёпот..."
+            }
+         }
+	},
+	"gizmos": {
+		"root_of_evil": {
+            "display_name": "Корень Зла",
+            "description": "Убей это, Убей! Или собери урожай!"
+         },
+         "tentacle_trap": {
+            "display_name": "Ловушка-Щупальце",
+            "description": "Хватает любого, кто подойдет слишком близко."
+         }
+	},
+	"titan": {
+		"corrupt_squid": {
+            "display_name": "Тень Титана",
+            "reveal": "Тень Титана: Несущий Рок",
+            "description": "Сегодня он особенно недоволен. Мы обречены."
+	   },
+       "corrupt": {
+               "corrupt_zilla": {
+                "display_name": "Вирм Рока",
+                "description": "Злой. Голодный."
+               },
+               "corrupt_hearthling": {
+                "display_name": "Тень Рока",
+                "description": "Лишь тень своего прежнего \"Я\"."
+               },
+               "corrupt_wolf": {
+                "display_name": "Зверь Рока",
+                "description": "Охотник конца света."
+               }
+       }	   
+    },
+	"food": {
+         "berries": {
+            "corrupt_berry_basket": {
+                "display_name": "Корзина Ягод Рока",
+                "description": "Стоит ли нам это есть?"
+            },
+            "corrupt_berry_serving": {
+                "display_name": "Тарелка Ягод Рока",
+                "description": "На вкус отвратительно."
+            }
+         }
+	},
+	"loot": {
+         "currency": {
+            "doomstone": {
+                "display_name": "Куб Рока",
+                "description": "Трофей с бездненных созданий... Должен иметь огромную ценность!"
+            }
+         }
+    },
+	"plants": {
+         "bramble": {
+            "bramble": {
+               "display_name": "Колючий Куст Рока",
+               "description": "Уберите его с помощью команды 'Собрать Урожай'!"
+            }
+		 }
+	},
+	"tools": {
+		"builder_squid": {
+            "display_name": "Кальмар-Строитель Рока",
+            "description": "Строит сооружения и добывает блоки."
+	   }
+	},
+	"weapons": {
+	   "doom_sub_xbow": {
+            "display_name": "Арбалет Рока",
+            "description": "Дополнительное оружие Лучника, наносящее тройной урон одним выстрелом."
+	   }		   
+	}
+  },
+  "jobs": {
+	"builder": {
+         "builder_description": {
+            "display_name": "Строитель",
+            "description": "Строители выполняют базовые задачи, такие как возведение зданий и размещение предметов.",
+            "requirements": "Разместите в мире, чтобы активировать.",
+            "level_0_data": {
+               "title": "Строитель"
+            }
+         }
+	}
+  },
+  "ui": {
+	"game": {
+		"bulletin": {
+		  "doomstone_item_type_choice": {
+			   "dialog_title": "Обменщик Камней Рока собирает Кубы Рока",
+               "title": "Обменщик Камней Рока делает предложение!",
+               "banner_prompt": "Выберите предмет:",
+               "complete": "✔️ Готово!",
+			   "doom_squid_builder": {
+                     "name": "Кальмар-Строитель Рока",
+                     "description": "Таинственное существо, помогающее со строительством или добычей ресурсов.",
+					 "cost": "Стоимость: 8 Кубов Рока"
+                },
+                "doom_crossbow": {
+                     "name": "Арбалет Рока (доп. оружие)",
+                     "description": "Дополнительное оружие Лучника, выпускающее усиленный тройной выстрел.",
+					 "cost": "Стоимость: 14 Кубов Рока"
+                },
+				"doom_disruptor": {
+                     "name": "Рассеиватель Рока",
+                     "description": "Устройство, останавливающее дальнейшие события Рока, если его разместить.",
+					 "cost": "Стоимость: 28 Кубов Рока"
+                },
+				"none": {
+                     "name": "",
+                     "description": "<i>Отказаться от обмена,<br> может в другой раз.</i>"
+                },
+				"doomstone_offer": {
+                  "title_doom_squid_builder": "Обмен на Кальмар-Строитель Рока",
+				  "title_doom_crossbow": "Обмен на Арбалет Рока",
+				  "title_doom_disruptor": "Обмен на Рассеиватель Рока",
+                  "trade_details": "Обменщик Камней Рока предлагает <strong>[str(i18n_data.reward_number)] [str(i18n_data.reward_item)]</strong>. Если вы соберёте <strong>[str(i18n_data.want_number)] [str(i18n_data.want_item)]</strong>, он вернётся с наградой через [str(i18n_data.num_days)] дн.",
+                  "waiting_title": "Обменщик Камней Рока вернётся через [str(i18n_data.hour_counter)] [str(i18n_data.period)]!",
+                  "waiting_text": "Обменщик Камней Рока вернётся через [str(i18n_data.hour_counter)] [str(i18n_data.period)], чтобы отдать вам <strong>[str(i18n_data.reward_number)] [str(i18n_data.reward_item)]</strong>, если у вас будет <strong>[str(i18n_data.want_number)] [str(i18n_data.want_item)]</strong>!",
+                  "return_title": "Обменщик Камней Рока возвращается!",
+                  "return_greetings_positive": "Я вернулся! Похоже, у вас есть [str(i18n_data.want_number)] [str(i18n_data.want_item)], как я просил. Всё ещё хотите получить [str(i18n_data.reward_number)] [str(i18n_data.reward_item)] в обмен?",
+                  "return_greetings_negative": "Я вернулся, но, похоже, у вас нет [str(i18n_data.want_number)] [str(i18n_data.want_item)], как я просил. Что ж, может в другой раз."
+               }
+            }
+		},
+		"entities": {
+	       "item_categories": {
+			  "doomstone_creations": "Создания из Камня Рока"
+	       }
+	    }
+	},
+	"spawn_new_squid": "Призвать Тень Титана"  
+  }
+}
