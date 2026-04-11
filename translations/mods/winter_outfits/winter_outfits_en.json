@@ -1,0 +1,290 @@
+{
+	"entities": {
+		"weapons": {},
+		"armor": {
+			
+			"winter_carpenter": {
+				"display_name": "Winter carpenter outfit",
+				"description": "Keeps your carpenter warm during cold days.",
+				"winter_carpenter_iconic": {
+					"display_name": "Winter carpenter outfit",
+					"description": "Keeps your carpenter warm during cold days."
+				}
+			},
+			"winter_trapper": {
+				"display_name": "Winter trapper outfit",
+				"description": "Keeps your trapper warm during cold days.",
+				"winter_trapper_iconic": {
+					"display_name": "Winter trapper outfit",
+					"description": "Keeps your trapper warm during cold days."
+				}
+			},
+			"winter_blacksmith": {
+				"display_name": "Winter blacksmith outfit",
+				"description": "Keeps your blacksmith warm during cold days.",
+				"winter_blacksmith_iconic": {
+					"display_name": "Winter blacksmith outfit",
+					"description": "Keeps your blacksmith warm during cold days."
+				}
+			},
+			"winter_cook": {
+				"display_name": "Winter cook outfit",
+				"description": "Keeps your cook warm during cold days.",
+				"winter_cook_iconic": {
+					"display_name": "Winter cook outfit",
+					"description": "Keeps your cook warm during cold days."
+				}
+			},
+			"winter_farmer": {
+				"display_name": "Winter farmer outfit",
+				"description": "Keeps your farmer warm during cold days.",
+				"winter_farmer_iconic": {
+					"display_name": "Winter farmer outfit",
+					"description": "Keeps your farmer warm during cold days."
+				}
+			},
+			"winter_engineer": {
+				"display_name": "Winter engineer outfit",
+				"description": "Keeps your engineer warm during cold days.",
+				"winter_engineer_iconic": {
+					"display_name": "Winter engineer outfit",
+					"description": "Keeps your engineer warm during cold days."
+				}
+			},
+			"winter_mason": {
+				"display_name": "Winter mason outfit",
+				"description": "Keeps your mason warm during cold days.",
+				"winter_mason_iconic": {
+					"display_name": "Winter mason outfit",
+					"description": "Keeps your mason warm during cold days."
+				}
+			},
+			"winter_herbalist": {
+				"display_name": "Winter herbalist outfit",
+				"description": "Keeps your herbalist warm during cold days.",
+				"winter_herbalist_iconic": {
+					"display_name": "Winter herbalist outfit",
+					"description": "Keeps your herbalist warm during cold days."
+				}
+			},
+			"winter_weaver": {
+				"display_name": "Winter weaver outfit",
+				"description": "Keeps your weaver warm during cold days.",
+				"winter_weaver_iconic": {
+					"display_name": "Winter weaver outfit",
+					"description": "Keeps your weaver warm during cold days."
+				}
+			},
+			"winter_shepherd": {
+				"display_name": "Winter shepherd outfit",
+				"description": "Keeps your shepherd warm during cold days.",
+				"winter_shepherd_iconic": {
+					"display_name": "Winter shepherd outfit",
+					"description": "Keeps your shepherd warm during cold days."
+				}
+			},
+			"winter_knight_steel": {
+				"display_name": "Winter steel mail",
+				"description": "Keeps your knights warm during cold wheater.",
+				"winter_knight_steel_iconic": {
+					"display_name": "Winter steel mail",
+					"description": "Keeps your knights warm during cold wheater."
+				}
+			},
+			"winter_knight_silver": {
+				"display_name": "Winter silver mail",
+				"description": "Keeps your knights warm even during most freezing days.",
+				"winter_knight_silver_iconic": {
+					"display_name": "Winter silver mail",
+					"description": "Keeps your knights warm even during most freezing days."
+				}
+			},
+			"winter_knight_silver_rc": {
+				"display_name": "Winter silver mail",
+				"description": "Keeps your knights warm even during most freezing days.",
+				"winter_knight_silver_rc_iconic": {
+					"display_name": "Winter silver mail",
+					"description": "Keeps your knights warm even during most freezing days."
+				}
+			},
+			"heavy_winter_weaver": {
+				"display_name": "Heavy winter weaver outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_weaver_iconic": {
+					"display_name": "Heavy winter weaver outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_carpenter": {
+				"display_name": "Heavy winter carpenter outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_carpenter_iconic": {
+					"display_name": "Heavy winter carpenter outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_trapper": {
+				"display_name": "Heavy winter trapper outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_trapper_iconic": {
+					"display_name": "Heavy winter trapper outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_engineer": {
+				"display_name": "Heavy winter engineer outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_engineer_iconic": {
+					"display_name": "Heavy winter engineer outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_herbalist": {
+				"display_name": "Heavy winter herbalist outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_herbalist_iconic": {
+					"display_name": "Heavy winter herbalist outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_shepherd": {
+				"display_name": "Heavy winter shepherd outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_shepherd_iconic": {
+					"display_name": "Heavy winter shepherd outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_cook": {
+				"display_name": "Heavy winter cook outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_cook_iconic": {
+					"display_name": "Heavy winter cook outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_farmer": {
+				"display_name": "Heavy winter farmer outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_farmer_iconic": {
+					"display_name": "Heavy winter farmer outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_blacksmith": {
+				"display_name": "Heavy winter blacksmith outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_blacksmith_iconic": {
+					"display_name": "Heavy winter blacksmith outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"heavy_winter_mason": {
+				"display_name": "Heavy winter mason outfit",
+				"description": "Allows to stay warm and cozy even in the most freezing weather.",
+				"heavy_winter_mason_iconic": {
+					"display_name": "Heavy winter mason outfit",
+					"description": "Allows to stay warm and cozy even in the most freezing weather."
+				}
+			},
+			"jobs": {
+				"weaver": {
+					"winter_carpenter": {
+						"recipe_name": "Winter carpenter outfit",
+						"description": "Keeps your carpenter warm during cold days."
+					},
+					"winter_blacksmith": {
+						"recipe_name": "Winter blacksmith outfit",
+						"description": "Keeps your blacksmith warm during cold days."
+					},
+					"winter_trapper": {
+						"recipe_name": "Winter trapper outfit",
+						"description": "Keeps your trapper warm during cold days."
+					},
+					"winter_cook": {
+						"recipe_name": "Winter cook outfit",
+						"description": "Keeps your cook warm during cold days."
+					},
+					"winter_farmer": {
+						"recipe_name": "Winter farmer outfit",
+						"description": "Keeps your farmer warm during cold days."
+					},
+					"winter_engineer": {
+						"recipe_name": "Winter engineer outfit",
+						"description": "Keeps your engineer warm during cold days."
+					},
+					"winter_mason": {
+						"recipe_name": "Winter mason outfit",
+						"description": "Keeps your mason warm during cold days."
+					},
+					"winter_herbalist": {
+						"recipe_name": "Winter herbalist outfit",
+						"description": "Keeps your herbalist warm during cold days."
+					},
+					"winter_weaver": {
+						"recipe_name": "Winter weaver outfit",
+						"description": "Keeps your weaver warm during cold days."
+					},
+					"winter_shepherd": {
+						"recipe_name": "Winter shepherd outfit",
+						"description": "Keeps your shepherd warm during cold days."
+					},
+					"winter_knight_steel": {
+						"recipe_name": "Winter steel mail",
+						"description": "Keeps your knights warm during cold wheater."
+					},
+					"winter_knight_silver": {
+						"recipe_name": "Winter silver mail",
+						"description": "Keeps your knights warm even during most freezing days."
+					},
+					"winter_knight_silver_rc": {
+						"recipe_name": "Winter silver mail",
+						"description": "Keeps your knights warm even during most freezing days."
+					},
+					"heavy_winter_weaver": {
+						"recipe_name": "Heavy winter weaver outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_carpenter": {
+						"recipe_name": "Heavy winter carpenter outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_cook": {
+						"recipe_name": "Heavy winter cook outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_farmer": {
+						"recipe_name": "Heavy winter farmer outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_trapper": {
+						"recipe_name": "Heavy winter trapper outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_engineer": {
+						"recipe_name": "Heavy winter engineer outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_blacksmith": {
+						"recipe_name": "Heavy winter blacksmith outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_shepherd": {
+						"recipe_name": "Heavy winter shepherd outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_herbalist": {
+						"recipe_name": "Heavy winter herbalist outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					},
+					"heavy_winter_mason": {
+						"recipe_name": "Heavy winter mason outfit",
+						"description": "Allows to stay warm and cozy even in the most freezing weather."
+					}
+				}
+
+
+			}
+		}
+	}
+}

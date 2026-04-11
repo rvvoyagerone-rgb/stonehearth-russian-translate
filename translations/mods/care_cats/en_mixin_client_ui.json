@@ -1,0 +1,26 @@
+{
+	"data": {
+	  "gm": {
+         "campaigns": {
+            "encounters": {
+               "daily_report_encounter": {
+                  "update_title": "Feline Update",
+				  "conclusion_positive": "A new cat would like to join your town!",
+				  "conclusion_negative": "No new cats were found. Maybe next time!"
+				}
+			}
+		 }
+	  }
+	},
+	"ui": {
+	  "game": {
+	    "bulletin": {
+		  "immigration_report": {
+               "title": "Population Update",
+               "immigration_report_title": "A Chance for a Cat",
+               "next_requirements_label": "Next cat requirements..."
+          }
+		}
+	  }
+	}
+}

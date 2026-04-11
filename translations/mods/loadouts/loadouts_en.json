@@ -1,0 +1,53 @@
+{
+	"data" : {
+		"loadouts" : {
+			"load_shep" : {
+				"display_name" : "Animal companion",
+				"description" : "Who needs food, when you have poyos? This loadout adds everything you need to start raising animals. Warning people food not included.",
+				"tooltip" : "Shepherd, trapper and animal food, all in one",
+				"animalfood" : "Poyos",
+				"animalfood2" : "Rabbits",
+				"animalfood3" : "Sheep"
+			},
+			"load_dwarf" : {
+				"display_name" : "Metal makers",
+				"description" : "Once you start digging, why look up again. The earth provides everything you need to get strong and stay strong, except nutrients, and warmth, basically you get strong but could die in the process",
+				"tooltip" : "For the future knights and footmen",
+				"ore" : "Copper",
+				"ore2" : "Tin",
+				"ore3" : "Iron"
+			},
+			"load_cleric" : {
+				"display_name" : "Prevent and protect",
+				"description" : "If you expect company, either prepare yourself, or clean up afterwards. This is even more true if you expect goblins. These items are meant for those who prefer the latter, once the fighting begins, cure and restore everyone and everything.",
+				"tooltip" : "All things that are healthy, are bitter in the end",
+				"herb" : "Brightbell",
+				"herb2" : "Flowers",
+				"herb3" : "Frostsnaps",
+				"herb4" : "Cacti"
+			},
+			"load_build" : {
+				"display_name" : "Architect toolbox",
+				"description" : "When you want to build wonders, you will need wonderfull tools. This loadout gives you everything you need to build the city you always wanted independent of starting kingdom.",
+				"tooltip" : "Become the master of rock, wood, and clay",
+				"mat1" : "Logs",
+				"mat2" : "Stone",
+				"mat3" : "Clay"
+			},
+			"load_des" : {
+				"display_name" : "Nomad needs",
+				"description" : "Tools require wood, deserts don't have wood, so to survive bring your own tools. This loadout gives the tools required to trive in the desert and defend against those pesky goblins.",
+				"tooltip" : "The best loadout if you like pie or other desserts",
+				"shield" : "Shields"
+			},
+			"load_weaver" : {
+				"display_name" : "Warm welcome",
+				"description" : "What is nicer than wearing a nicely knitted outfit? Provide your weaver to be with all the resources and plants they could use to start making clothing and carpets.",
+				"tooltip" : "Warm sweaters for everyone",
+				"seeds" : "Silkweed",
+				"fibre" : "Wool",
+				"pelts" : "Pelts"
+			}
+		}		
+	}
+}

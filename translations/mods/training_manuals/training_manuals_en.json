@@ -1,0 +1,115 @@
+{
+	"entities": {
+		"gizmos": {
+			"training_manual": {
+				"display_name": "Training From The Manual",
+				"description": "Learning is fun!"
+			},
+			"saws_and_boards": {
+				"display_name": "Saws and Boards",
+				"description": "How to cut boards and not yourself!",
+				"recipe": {
+					"flavor": "A tome used to train low level carpenters."
+				}
+			},
+			"a_spoonful_of_sugar": {
+				"display_name": "A Spoonful fo Sugar",
+				"description": "An ancient recipe book, rewritten time and time again.",
+				"recipe": {
+					"flavor": "A tome used to train low level cooks."
+				}
+			},
+			"a_wrench_in_the_works": {
+				"display_name": "A Wrench in the Works",
+				"description": "How NOT to break turrets and traps.",
+				"recipe": {
+					"flavor": "A tome used to train low level engineers."
+				}
+			},
+			"hammering_out_the_kinks": {
+				"display_name": "Hammering Out the Kinks",
+				"description": "Even metal has its secrets.",
+				"recipe": {
+					"flavor": "A tome used to train low level blacksmiths."
+				}
+			},
+			"plants_of_poison": {
+				"display_name": "Plants of Poison",
+				"description": "It's probably best not to touch these plants...",
+				"recipe": {
+					"flavor": "A tome used to train low level herbalists."
+				}
+			},
+			"the_clay_to_mans_heart": {
+				"display_name": "The Clay to Mans Heart",
+				"description": "Moulding clay. How romantic.",
+				"recipe": {
+					"flavor": "A tome used to train low level potters."
+				}
+			},
+			"the_time_of_weave": {
+				"display_name": "The Time of Weave",
+				"description": "By the looks of it, the writer was a few rows short of a stitch.",
+				"recipe": {
+					"flavor": "A tome used to train low level weavers."
+				}
+			},
+			"getting_rocks_off": {
+				"display_name": "Getting Rocks Off",
+				"description": "A pretty solid read.",
+				"recipe": {
+					"flavor": "A tome used to train low level masons."
+				}
+			},
+			"reeling_in_the_big_one": {
+				"display_name": "Reeling In The Big One",
+				"description": "An in depth book on fishing and baiting.",
+				"recipe": {
+					"flavor": "A tome used to train low level fishers."
+				}
+			},
+			"house_and_garden_magazine": {
+				"display_name": "House and Garden Magazine",
+				"description": "A magazine showcasing the housing and landscapings of the rich and famous.",
+				"recipe": {
+					"flavor": "A tome used to train low level gardeners."
+				}
+			},
+			"dirt_and_you": {
+				"display_name": "Dirt and You",
+				"description": "Find out all about the world you live in.",
+				"recipe": {
+					"flavor": "A tome used to train low level earthmasters."
+				}
+			},
+			"wibbly_wobbly_timey_wimey": {
+				"display_name": "Wibbly Wobbly Timey Wimey",
+				"description": "Understanding 42.",
+				"recipe": {
+					"flavor": "A tome used to train low level time wizards."
+				}
+			},
+			"got_a_bone_to_pick": {
+				"display_name": "Got a Bone to Pick",
+				"description": "The basics of working with bones and wood.",
+				"recipe": {
+					"flavor": "A tome used to train low level bonesmiths."
+				}
+			},
+			"catching_fireflies": {
+				"display_name": "Catching Fireflies",
+				"description": "Fireflies are noble creatures, but even nobility has its uses.",
+				"recipe": {
+					"flavor": "A tome used to train low level shaman."
+				}
+			},
+			"great_goblish_tavern_food": {
+				"display_name": "Great Goblish Tavern Food",
+				"description": "A tome of recipes, written by the famous firemaster, Goblin Ramsay.",
+				"recipe": {
+					"flavor": "A tome used to train low level firemasters."
+				}
+			}
+		}
+	}
+}

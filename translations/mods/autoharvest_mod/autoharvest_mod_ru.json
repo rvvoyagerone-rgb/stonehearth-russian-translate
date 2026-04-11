@@ -1,0 +1,42 @@
+{
+	"data": {
+		"commands": {
+			"autoharvest_on": {
+				"display_name": "Режим автосбора ВКЛЮЧЕН",
+				"description": "Нажмите, чтобы отключить.",
+				"disabled_description": "Сейчас нельзя отключить, попробуйте позже."
+			},
+			"autoharvest_off": {
+				"display_name": "Режим автосбора ВЫКЛЮЧЕН",
+				"description": "Нажмите, чтобы включить.",
+				"disabled_description": "Сейчас нельзя включить, попробуйте позже."
+			}
+		}
+	},
+	"ui": {
+		"game": {
+			"menu": {
+				"harvest_menu": {
+					"items": {
+						"box_autoharvest": {
+							"display_name": "Автосбор",
+							"description": "Выберите возобновляемые ресурсы, чтобы собирать их автоматически.",
+							"tip_title": "Кликните и потяните, чтобы отметить ресурсы для автосбора",
+							"tip_description": "ПКМ — выход из этого режима"
+						}
+					}
+				}
+			}
+		},
+		"shell": {
+			"settings": {
+				"controls_tab": {
+					"key_binding_names": {
+						"harvest_autoharvest": "Переключить автосбор",
+						"harvest_box_autoharvest": "Выделение области для автосбора"
+					}
+				}
+			}
+		}
+	}
+}

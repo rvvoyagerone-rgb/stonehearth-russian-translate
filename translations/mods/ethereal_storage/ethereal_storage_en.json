@@ -1,0 +1,25 @@
+{
+   "entities": {
+      "ethereal_storage": {
+         "display_name": "Ethereal Storage"
+      }
+   },
+   "ui": {
+      "shell": {
+         "settings": {
+            "gameplayTab": {
+               "universal_storage_access_node_effect": "Access Node Effect:",
+               "universal_storage_access_node_effect_description": "Applies the selected effect to all access nodes (normal storage entities) for a player's ethereal storage.",
+               "access_node_effect": {
+                  "none": "None",
+                  "none_description": "No effect applied.",
+                  "purple_void": "Purple Void",
+                  "purple_void_description": "A purple void effect, slowly sucking everything in.",
+                  "warm_glow": "Warm Glow",
+                  "warm_glow_description": "A warm glow effect, similar to a faint lamp."
+               }
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,24 @@
+{
+	"type": "recipe",
+	"effort": 40,
+	"work_units": 8,
+	"recipe_name": "i18n(Зимняя одежда ткача)",
+	"description": "i18n(Согревает вашего ткача в холодные дни.)",
+	"flavor": "i18n(Прежде чем заботиться о других, убедись, что с тобой всё в порядке.)",
+	"portrait": "/winter_outfits/jobs/weaver/winter_weaver/winter_weaver.png",
+	"workshop": "stonehearth:weaver:workbench",
+	"level_requirement": 1,
+	"ingredients": [
+	{
+			 "material": "leather resource",
+			"count": 2
+		},
+		{
+			 "material": "cloth resource",
+			"count": 1
+		}
+	],
+	"produces": [{
+		"item": "winter_outfits:winter_weaver"
+	}]
+}

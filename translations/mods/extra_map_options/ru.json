@@ -1,0 +1,52 @@
+{
+	"ui": {
+		"shell": {
+			"select_settlement": {
+				"open_map_options":"Настройки Мира",
+				"world_size": {
+					"display":"Размер Мира:",
+					"micro": "Микро",
+					"small": "Маленький",
+					"normal": "Нормальный",
+					"large": "Большой"
+				},
+				"enable": {
+					"display":"Добавить:",
+					"lakes": "Озёра",
+					"dirt_holes": "Ямы"
+				},
+				"landmarks": {
+					"display":"Ориентиры:",
+					"none": "Нет",
+					"default": "Стандарт",
+					"plenty": "Много"
+				},
+				"rivers": {
+					"display":"Реки:",
+					"quantity": "Макс. Кол-во:",
+					"sizes": {
+						"display":"Размеры:",
+						"narrow":"Узкий",
+						"wide":"Широкий"
+					},
+					"locations": {
+						"display":"Локации:",
+						"plains":"Равнины",
+						"foothills":"Предгорья",
+						"mountains":"Горы"
+					}
+				},
+				"modes": {
+					"display":"Особая форма:",
+					"superflat": "Супер-плоский",
+					"waterworld": "Водный мир",
+					"canyons": "Каньоны",
+					"sky_lands": "Небесные земли"
+				},
+				"apply_map_options": "Применить",
+				"default_map_options": "По Умолчанию",
+				"cancel_map_options": "Отменить",
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"info" : {
+		"name" : "Specialized Loadouts",
+		"namespace" : "extraload",
+		"version" : 3,
+		"steam_file_id" : "1360030491"
+	},
+	"default_locale" : "en",
+
+	"aliases" : {
+	
+	},
+
+	"mixintos" : {		
+		"/stonehearth/locales/en.json" : "file(locales/en.json)",
+		"/stonehearth/data/loadouts/loadouts.json" : "file(data/loadouts/loadouts.json)"
+	}
+}
