@@ -2,50 +2,50 @@
 	"ui": {
 		"shell": {
 			"select_settlement": {
-				"open_map_options":"Настройки Мира",
+				"open_map_options":"Настройки мира",
 				"world_size": {
-					"display":"Размер Мира:",
+					"display":"Размер мира:",
 					"micro": "Микро",
-					"small": "Маленький",
+					"small": "Малый",
 					"normal": "Нормальный",
 					"large": "Большой"
 				},
 				"enable": {
-					"display":"Добавить:",
-					"lakes": "Озёра",
-					"dirt_holes": "Ямы"
+					"display":"Включить:",
+					"lakes": "Озера",
+					"dirt_holes": "Ямы в земле"
 				},
 				"landmarks": {
-					"display":"Ориентиры:",
+					"display":"Достопримечательности:",
 					"none": "Нет",
-					"default": "Стандарт",
+					"default": "По умолчанию",
 					"plenty": "Много"
 				},
 				"rivers": {
 					"display":"Реки:",
-					"quantity": "Макс. Кол-во:",
+					"quantity": "Максимальное количество:",
 					"sizes": {
 						"display":"Размеры:",
-						"narrow":"Узкий",
-						"wide":"Широкий"
+						"narrow":"Узкие",
+						"wide":"Широкие"
 					},
 					"locations": {
-						"display":"Локации:",
+						"display":"Местоположения:",
 						"plains":"Равнины",
 						"foothills":"Предгорья",
 						"mountains":"Горы"
 					}
 				},
 				"modes": {
-					"display":"Особая форма:",
-					"superflat": "Супер-плоский",
+					"display":"Специальные режимы:",
+					"superflat": "Суперплоский",
 					"waterworld": "Водный мир",
 					"canyons": "Каньоны",
 					"sky_lands": "Небесные земли"
 				},
 				"apply_map_options": "Применить",
-				"default_map_options": "По Умолчанию",
-				"cancel_map_options": "Отменить",
+				"default_map_options": "По умолчанию",
+				"cancel_map_options": "Отмена"
 			}
 		}
 	}

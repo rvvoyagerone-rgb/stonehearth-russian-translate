@@ -1,0 +1,48 @@
+{
+ "data": {
+	"commands": {
+       "music_change": {
+		  "display_name": "Change Music",
+          "description": "Start a new music track.",
+		  "set_kingdom_display_name": "Kingdom Music Reset",
+          "set_kingdom_description": "Start current kingdom music.",
+		  "ogo_display_name": "Ogo Music",
+          "ogo_description": "Start Ogo's music.",
+		  "titan_display_name": "Titan Music",
+          "titan_description": "Start the Titan's music.",
+		  "weather_tunes_display_name": "Weather Tunes",
+          "weather_tunes_description": "Start random weather tune."
+	   }
+    }		
+ },
+ "entities": {
+	"gizmos": {
+       "music_changer": {
+            "music_changer_ghost": {
+               "display_name": "Music Changer",
+               "description": "Music emanates from metal discs."
+            }
+         }
+    }		
+ },
+ "jobs": {
+	"bonesmith": {
+       "recipes": {
+		  "music_changer_recipe": {
+            "recipe_name": "Music Changer",
+			"description": "Music emanates from metal discs.",
+			"flavor": "Use buttons to start a random song for the time of day"
+          }			  
+	   }
+    },
+	"carpenter": {
+       "recipes": {
+		  "music_changer_recipe": {
+            "recipe_name": "Music Changer",
+			"description": "Music emanates from metal discs.",
+			"flavor": "Use buttons to start a random song for the time of day"
+          }			  
+	   }
+    }		
+ }
+}

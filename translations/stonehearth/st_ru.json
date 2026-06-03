@@ -2158,25 +2158,25 @@
         "story_start": "Эта история об...",
         "kingdom_section_start": "... отважных поселенцах фракции",
         "select_button": "?",
-        "kingdom_picker_title": "Выбрать королевство",
+        "kingdom_picker_title": "Выберите королевство",
         "biome_section_start": "В поисках земель и приключений, они отправились ",
-        "biome_picker_title": "Выбрать биом",
+        "biome_picker_title": "Выберите биом",
         "game_mode_select_start": ", ",
-        "game_mode_picker_title": "Выбрать трудность",
+        "game_mode_picker_title": "Выберите режим",
         "biome_favored_label": "(излюбленый)",
         "game_modes": {
           "normal": {
-            "display_name": "Обычная",
+            "display_name": "Обычный",
             "description": "Мир наполненный опасностями, город будет подвергаться нападениям.",
             "post_selection_text": "хорошее место, чтобы начать жизнь с чистого листа."
           },
           "peaceful": {
-            "display_name": "Мирная",
+            "display_name": "Мирный",
             "description": "Режим песочницы, в котором вы спокойно можете строить свой город не опасаясь нападений.",
             "post_selection_text": "спокойное место, чтобы начать жизнь с чистого листа."
           },
           "hard": {
-            "display_name": "Тяжёлая",
+            "display_name": "Тяжёлый",
             "description": "Очень сильные монстры будут наводить ужас на ваше поселение.",
             "post_selection_text": "пугающее место, чтобы начать жизнь с чистого листа."
           }
