@@ -1,0 +1,151 @@
+{
+   "ui": {
+      "game": {
+         "pet_manager": {
+            "title": "Pet Overview",
+            "description": "Manage your pets",
+            "name": "Name",
+            "details": "Pet Details",
+            "current_owner": "Current owner: ",
+            "activity": "Activity",
+            "health": "Health",
+            "hunger": "Hunger",
+            "social": "Social",
+            "no_pets": "You have no pets available",
+            "sleepiness": "Sleepiness",
+            "release_pet": "Release Pet",
+            "click_to_focus_pet": "Click to focus on pet",
+            "click_to_focus_owner": "Click to focus on owner"
+         },
+         "entities": {
+            "item_categories": {
+               "combat_pets": "Combat Pets"
+            }
+         }
+      },
+      "pet_trainer": {
+         "display_name": "Pet Trainer",
+         "description": "Craft items to train and enhance your pets.",
+         "crafter_requirements": "Requires a Pet Trainer."
+      }
+   },
+   "jobs": {
+      "pet_trainer": {
+         "job_description": {
+            "display_name": "Pet Trainer",
+            "description": "A skilled handler who trains and enhances the town's animal companions.",
+            "requirements": "Requires a level 2 Trapper or level 2 Shepherd."
+         },
+         "level_data": {
+            "l1_name": "Animal Empathy",
+            "l1_description": "The Pet Trainer can tame animals much more reliably than the Trapper at the Trapping Grounds.",
+            "l1_training_name": "Pet Training",
+            "l1_training_description": "The Pet Trainer can train combat capable Pets, giving small them small boosts for combat.",
+            "l2_name": "Pet Enhancement",
+            "l2_description": "Unlocks more advanced pet training providing a larger effect.",
+            "l3_name": "Expert Handler",
+            "l3_description": "The Pet Trainer provides a much more powerful and longer lasting effect."
+         },
+         "outfit": {
+            "name": "Pet Trainer's Outfit",
+            "description": "The outfit of a skilled pet trainer."
+         },
+         "talisman": {
+            "name": "Training Whistle",
+            "description": "A talisman used to promote a hearthling to Pet Trainer."
+         },
+         "personality": {
+            "promote": "Time to train some pets!",
+            "beleaguered_leader": "As if I did not have enough to do...",
+            "hopeless_optimist": "I cannot wait to work with the animals!",
+            "lovable_rogue": "Animals are way more fun than people.",
+            "psychopathic_misanthrope": "Finally, companions that do not talk back.",
+            "insufferable_academic": "The behavioral patterns of domesticated animals are fascinating.",
+            "diligent_sweetheart": "I will take such good care of them!"
+         }
+      },
+      "carpenter": {
+         "recipes": {
+            "pet_trainer_talisman": {
+               "recipe_name": "Pet Trainer Whistle",
+               "flavor": "A talisman that channels the bond between trainer and beast. (Placeholder model)"
+            }
+         }
+      }
+   },
+   "entities": {
+      "pets": {
+         "boar": {
+            "display_name": "Boar",
+            "description": "A fierce boar trained as a combat companion."
+         },
+         "wolf": {
+            "display_name": "Wolf",
+            "description": "A fierce wolf trained as a combat companion."
+         },
+         "bear_cub": {
+            "display_name": "Bear Cub",
+            "description": "A young bear trained as a combat companion."
+         },
+         "cougar": {
+            "display_name": "Cougar",
+            "description": "A fierce cougar trained as a combat companion."
+         },
+         "alligator": {
+            "display_name": "Varanus",
+            "description": "A fearsome varanus trained as a combat companion."
+         },
+         "deer_horned": {
+            "display_name": "Stag",
+            "description": "A fierce horned deer trained as a combat companion."
+         },
+         "mammoth": {
+            "display_name": "Mammoth",
+            "description": "An ancient mammoth trained as a combat companion."
+         },
+         "wombat": {
+            "display_name": "Wombat",
+            "description": "A fierce wombat trained as a combat companion."
+         }
+      },
+      "weapons": {
+         "boar_tusks": {
+            "display_name": "Boar Tusks",
+            "description": "Sharp tusks used in combat."
+         },
+         "wombat_bite": {
+            "display_name": "Wombat Bite",
+            "description": "Sharp teeth used in combat."
+         }
+      }
+   },
+   "buffs": {
+      "pet_training_1": {
+         "display_name": "Basic Combat Training",
+         "description": "+50 max health."
+      },
+      "pet_training_2": {
+         "display_name": "Intermediate Combat Training",
+         "description": "+100 max health."
+      },
+      "pet_training_3": {
+         "display_name": "Advanced Combat Training",
+         "description": "+200 max health, +20 damage"
+      }
+   },
+   "data": {
+      "traits": {
+         "passionate_pet_trainer": {
+            "display_name": "Passionate Pet Trainer",
+            "description": "This hearthling has a natural affinity for animals and finds great joy in training them. They will be happier and more effective as a Pet Trainer."
+         }
+      }
+   },
+   "ai": {
+      "actions": {
+         "status_text": {
+            "training_pet": "Training {{target_name}}"
+         }
+      }
+   }
+}

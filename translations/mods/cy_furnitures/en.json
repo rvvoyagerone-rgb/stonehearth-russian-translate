@@ -1,0 +1,418 @@
+{
+  "trader": {
+    "arcs": {
+      "encounters": {
+        "tier_2_shops": {
+          "cyber_shop_2": {
+            "name": "Cyber's new furniture shop!",
+            "title": "A merchant with green eyes has arrived with new furniture to sell"
+          }
+        }
+      }
+    }
+  },
+  "data": {
+    "commands": {
+      "play_piano": {
+        "display_name": "Play Piano",
+        "description": "Allow someone to play this Piano."
+      }
+    }
+  },
+  "entities": {
+    "decoration": {
+      "piano": {
+          "display_name": "Piano",
+          "description": "Stay Classy.",
+          "recipe_name": "Piano",
+          "harvest_text": "Playing Piano",
+          "idle_description": "Waiting for the magic to charge up the piano keys..."
+      },
+      "mine_entrance_scaffold": {
+          "display_name": "Mine Entrance Scaffold",
+          "description": "The hearthlings yearn for the mines",
+          "recipe_name": "Mine Entrance Scaffold"
+      },
+      "outdoor_bulletin_board": {
+          "display_name": "Outdoor Bulletin Board",
+          "description": "A nice sign for your town",
+          "recipe_name": "Outdoor Bulletin Board"
+      },
+      "basic_wood_light_post": {
+          "display_name": "Basic Wood Light Post",
+          "description": "A simple lantern on a post to provide light at night.",
+          "recipe_name": "Basic Wood Light Post"
+      },
+      "trophy_lamp_scout": {
+          "display_name": "Scout Kolbold Lamp",
+          "description": "A lamp made from a kolbold scout's helmet.",
+          "recipe_name": "Scout Kolbold Lamp"
+      },
+      "trophy_lamp_elite": {
+          "display_name": "Elite Kolbold Lamp",
+          "description": "A lamp made from a kolbold elite's helmet.",
+          "recipe_name": "Elite Kolbold Lamp"
+      },
+      "trophy_lamp_master": {
+          "display_name": "Master Kolbold Lamp",
+          "description": "A lamp made from a kolbold master's helmet.",
+          "recipe_name": "Master Kolbold Lamp"
+      },
+      "trophy_lamp_general": {
+          "display_name": "General Kolbold Lamp",
+          "description": "A lamp made from a kolbold general's helmet.",
+          "recipe_name": "General Kolbold Lamp"
+      },
+      "blue_awning": {
+          "display_name": "Blue Awning",
+          "description": "For those who don't like sun in their eyes.",
+          "recipe_name": "Blue Awning"
+      },
+      "red_awning": {
+          "display_name": "Red Awning",
+          "description": "For those who don't like the blue one.",
+          "recipe_name": "Red Awning"
+      },
+      "purple_curtains": {
+          "display_name": "Purple Curtains",
+          "description": "Now in purple!",
+          "recipe_name": "Purple Curtains"
+      },
+      "scholar_table": {
+          "display_name": "Decorative Scholar Table",
+          "description": "A table with for smart Hearthlings.",
+          "recipe_name": "Decorative Scholar Table"
+      },
+      "cook_table": {
+          "display_name": "Decorative Cook Table",
+          "description": "Table with food on it to decorate your Tavern.",
+          "recipe_name": "Decorative Cook Table"
+      },
+      "cook_clay_table": {
+          "display_name": "Decorative Cook Clay Table",
+          "description": "Clay Table with food on it to decorate your Tavern.",
+          "recipe_name": "Decorative Cook Clay Table"
+      },
+      "herbalist_clay_table": {
+          "display_name": "Decorative Herbalist Clay Table",
+          "description": "Clay table with herbalist items on it",
+          "recipe_name": "Decorative Herbalist Clay Table"
+      },
+      "herbalist_table": {
+          "display_name": "Decorative Herbalist Table",
+          "description": "Wooden table with herbalist items on it",
+          "recipe_name": "Decorative Herbalist Table"
+      },
+      "clay_edger": {
+        "description": "Clay edgers with new world charm.",
+        "display_name": "Clay Edger",
+        "recipe_name": "Six Clay Edger",
+        "flavor": "They keep things on edge."
+      },
+      "clay_edger_full": {
+        "description": "Gapless clay edgers with new world charm.",
+        "display_name": "Gapless Clay Edger",
+        "recipe_name": "Six Gapless Clay Edger",
+        "flavor": "They keep things on edge."
+      },
+      "clay_old_edger": {
+        "description": "Clay edgers with old world charm.",
+        "display_name": "Clay Old Edger",
+        "recipe_name": "Six Clay Old Edger",
+        "flavor": "They keep old things on edge."
+      },
+      "clay_old_edger_full": {
+        "description": "Gapless clay edgers with old world charm.",
+        "display_name": "Gapless Clay Old Edger",
+        "recipe_name": "Six Gapless Clay Old Edger",
+        "flavor": "They keep old things on edge."
+      },
+      "clay_old_paver": {
+        "description": "Clay pavers with old world charm.",
+        "display_name": "Clay Old Pavers 3x3",
+        "recipe_name": "Clay Old Pavers 3x3",
+        "flavor": "Like a rug for a road."
+      },
+      "clay_old_paver_one": {
+        "description": "Clay paver with old world charm.",
+        "display_name": "Clay Old Paver 1x1",
+        "recipe_name": "Six Clay Old Paver 1x1",
+        "flavor": "Like a rug for a road."
+      },
+      "clay_paver": {
+        "description": "Clay pavers with new world charm.",
+        "display_name": "Clay Pavers 3x3",
+        "recipe_name": "Clay Pavers 3x3",
+        "flavor": "Like a rug for a road."
+      },
+      "clay_paver_one": {
+        "description": "Clay paver with new world charm.",
+        "display_name": "Clay Paver 1x1",
+        "recipe_name": "Six Clay Paver 1x1",
+        "flavor": "Like a rug for a road."
+      },
+      "clay_tan_edger": {
+        "description": "Clay tan edgers with tan world charm.",
+        "display_name": "Clay Tan Edger",
+        "recipe_name": "Six Clay Tan Edger",
+        "flavor": "They keep tannish things on edge."
+      },
+      "clay_tan_edger_full": {
+        "description": "Gapless clay tan edgers with tan world charm.",
+        "display_name": "Gapless Clay Tan Edger",
+        "recipe_name": "Six Gapless Clay Tan Edger",
+        "flavor": "They keep tannish things on edge."
+      },
+      "clay_tan_paver": {
+        "description": "Clay tan pavers with tan world charm.",
+        "display_name": "Clay Tan Pavers 3x3",
+        "recipe_name": "Clay Tan Pavers 3x3",
+        "flavor": "Like a rug for a road."
+      },
+      "clay_tan_paver_one": {
+        "description": "Clay tan paver with tan world charm.",
+        "display_name": "Clay Tan Paver 1x1",
+        "recipe_name": "Six Clay Tan Paver 1x1",
+        "flavor": "Like a rug for a road."
+      },
+      "edger_brownstone": {
+        "description": "Brownstone edgers.",
+        "display_name": "Brownstone Edgers",
+        "recipe_name": "Six Brownstone Edgers",
+        "flavor": "Rough and stylish."
+      },
+      "edger_sandstone": {
+        "description": "Sandstone edgers.",
+        "display_name": "Sandstone Edger",
+        "recipe_name": "Six Sandstone Edger",
+        "flavor": "Rough and stylish."
+      },
+      "edger_stone": {
+        "description": "Stone edgers.",
+        "display_name": "Stone Edger",
+        "recipe_name": "Six Stone Edger",
+        "flavor": "Rough and stylish."
+      },
+      "edger_stone_solid": {
+        "description": "Stone edgers.",
+        "display_name": "Stone Gapless Edger",
+        "recipe_name": "Six Stone Gapless Edger",
+        "flavor": "Rough and stylish."
+      },
+      "paver_brownstone": {
+        "description": "Brownstone pavers.",
+        "display_name": "Brownstone Pavers 3x3",
+        "recipe_name": "Brownstone Pavers 3x3",
+        "flavor": "Smooth and stylish."
+      },
+      "paver_brownstone_one": {
+        "description": "Brownstone paver.",
+        "display_name": "Brownstone Paver 1x1",
+        "recipe_name": "Six Brownstone Paver 1x1",
+        "flavor": "Smooth and stylish."
+      },
+      "paver_sandstone": {
+        "description": "Sandstone pavers.",
+        "display_name": "Sandstone Pavers 3x3",
+        "recipe_name": "Sandstone Pavers 3x3",
+        "flavor": "Smooth and stylish."
+      },
+      "paver_sandstone_one": {
+        "description": "Sandstone paver.",
+        "display_name": "Sandstone Paver 1x1",
+        "recipe_name": "Six Sandstone Paver 1x1",
+        "flavor": "Smooth and stylish."
+      },
+      "paver_stone": {
+        "description": "Stone pavers.",
+        "display_name": "Stone Pavers 3x3",
+        "recipe_name": "Stone Pavers 3x3",
+        "flavor": "Smooth and stylish."
+      },
+      "paver_stone_one": {
+        "description": "Stone paver.",
+        "display_name": "Stone Paver 1x1",
+        "recipe_name": "Six Stone Paver 1x1",
+        "flavor": "Smooth and stylish."
+      },
+      "step_brownstone": {
+        "description": "Brown step stones.",
+        "display_name": "Step Brownstones 3x3",
+        "recipe_name": "Step Brownstones 3x3",
+        "flavor": "Smooth and stylish."
+      },
+      "step_brownstone_one": {
+        "description": "Brown step stone.",
+        "display_name": "Step Brownstone 1x1",
+        "recipe_name": "Six Step Brownstone 1x1",
+        "flavor": "Smooth and stylish."
+      },
+      "step_darkstone": {
+        "description": "Dark step stones.",
+        "display_name": "Step Dark Stones 3x3",
+        "recipe_name": "Step Dark Stones 3x3",
+        "flavor": "Smooth and stylish."
+      },
+      "step_darkstone_one": {
+        "description": "Dark step stone.",
+        "display_name": "Step Dark Stone 1x1",
+        "recipe_name": "Six Step Dark Stone 1x1",
+        "flavor": "Smooth and stylish."
+      },
+      "step_redstone": {
+        "description": "Red step stones.",
+        "display_name": "Step Redstones 3x3",
+        "recipe_name": "Step Redstones 3x3",
+        "flavor": "Stylish."
+      },
+      "step_redstone_one": {
+        "description": "Red step stone.",
+        "display_name": "Step Redstone 1x1",
+        "recipe_name": "Six Step Redstone 1x1",
+        "flavor": "Stylish."
+      },
+      "step_stone": {
+        "description": "Step stones.",
+        "display_name": "Step Stones 3x3",
+        "recipe_name": "Step Stones 3x3",
+        "flavor": "Stylish."
+      },
+      "step_stone_one": {
+        "description": "A step stone.",
+        "display_name": "Step Stone 1x1",
+        "recipe_name": "Six Step Stone 1x1",
+        "flavor": "Stylish."
+      }
+    },
+    "furniture": {
+      "large_ornate_feasting_table": {
+          "display_name": "Ornate Feasting Table",
+          "description": "A table for enjoying the best food in the Kingdom.",
+          "recipe_name": "Ornate Feasting Table"
+      },
+      "wood_trophy_stand": {
+          "display_name": "Wooden Trophy Stand",
+          "description": "For displaying your prized trophies.",
+          "recipe_name": "Wooden Trophy Stand"
+      },
+      "wide_wood_trophy_stand": {
+          "display_name": "Wide Wooden Trophy Stand",
+          "description": "For displaying your prized trophies.",
+          "recipe_name": "Wide Wooden Trophy Stand"
+      },
+      "ornate_trophy_stand": {
+          "display_name": "Ornate Wood Trophy Stand",
+          "description": "For displaying your prized trophies.",
+          "recipe_name": "Ornate Wood Trophy Stand"
+      },
+      "wide_ornate_trophy_stand": {
+          "display_name": "Wide Ornate Wooden Trophy Stand",
+          "description": "For displaying your prized trophies.",
+          "recipe_name": "Wide Ornate Wooden Trophy Stand"
+      },
+      "comfy_sofa": {
+          "display_name": "Comfy Sofa",
+          "description": "A more spacious seating option for a Hearthling.",
+          "recipe_name": "Comfy Sofa"
+      },
+      "stone_chair_nice": {
+          "display_name": "Fancy Stone Chair",
+          "description": "Almost looks like a chair for a king.",
+          "recipe_name": "Fancy Stone Chair"
+      },
+      "large_clay_table": {
+          "display_name": "Large Clay Table",
+          "description": "It's like two tables combined!",
+          "recipe_name": "Large Clay Table"
+      },
+      "large_table": {
+          "display_name": "Large Wooden Table",
+          "description": "It's like two tables combined!",
+          "recipe_name": "Large Wooden Table"
+      },
+      "wood_chair_fur": {
+          "display_name": "Fur-Covered Chair",
+          "description": "A chair Covered with a fur layer, comfy.",
+          "recipe_name": "Fur-Covered Chair"
+      },
+      "green_comfy_bed": {
+          "display_name": "Green Comfy Bed",
+          "description": "I dreamed... of flying sheep.",
+          "recipe_name": "Green Comfy Bed"
+      },
+      "map_table": {
+          "display_name": "Map Table",
+          "description": "A table with a map on it",
+          "recipe_name": "Map Table",
+          "flavor": "The world is your oyster."
+      },
+      "blue_cloth_wood_table": {
+          "display_name": "Blue Cloth Table",
+          "description": "Table, Now with Color!",
+          "recipe_name": "Blue cloth Table"
+      },
+      "red_cloth_wood_table": {
+          "display_name": "Red Cloth Table",
+          "description": "Table, Now with a different color.",
+          "recipe_name": "Red cloth Table"
+      },
+      "washing_cabinet": {
+          "display_name": "Washing Cabinet",
+          "description": "Washing your hands is important!",
+          "recipe_name": "Washing Cabinet"
+      },
+      "large_comfy_bed": {
+          "display_name": "Large Comfy Bed",
+          "description": "So much leg room!",
+          "recipe_name": "Large Comfy Bed"
+      },
+      "wood_comfy_fur_bed": {
+          "display_name": "Wood Comfy Fur Bed",
+          "description": "So Warm and soft.",
+          "recipe_name": "Wood Comfy Fur Bed"
+      }
+    },
+    "construction": {
+      "drawbridge": {
+          "display_name": "Wood Drawbridge",
+          "description": "A fancy gate for the castle.",
+          "recipe_name": "Wood Drawbridge"
+      },
+      "stone_drawbridge": {
+          "display_name": "Stone Drawbridge",
+          "description": "A sturdier fancy gate for the castle.",
+          "recipe_name": "Stone Drawbridge"
+      }
+    },
+    "containers": {
+      "wood_pantry": {
+          "display_name": "Pantry",
+          "description": "A place to store some food. Acts as a crafter supply shelf.",
+          "recipe_name": "Pantry"
+      },
+      "wardrobe": {
+          "display_name": "Wardrobe",
+          "description": "A wardrobe made from wood.",
+          "recipe_name": "Wardrobe",
+          "flavor": "Tall and sturdy place to hide 10 things."
+        }
+      }
+    },
+    "jobs": {
+      "blacksmith": {},
+      "carpenter": {},
+      "engineer": {},
+      "herbalist": {},
+      "mason": {
+        "recipes": {
+          "landscaping_name": "Landscaping"
+        }
+      },
+      "potter": {
+        "recipes": {
+          "landscaping_name": "Landscaping"
+        }
+      },
+      "weaver": {}
+  }
+}

@@ -1,58 +1,58 @@
 {
-	"entities": {
-		"monsters": {
-			"golems": {
-				"golem_building_mod": {
-					"display_name": "Мини-Строитель",
-					"description": "Автоматический Голем-Строитель."
-				},
-				"golem_harvesting_mod": {
-					"display_name": "Мини-Сборщик",
-					"description": "Автоматический Голем-Сборщик."
-				},
-				"golem_mining_mod": {
-					"display_name": "Мини-Шахтёр",
-					"description": "Автоматический Голем-Шахтёр."
-				},
-				"golem_restocking_mod": {
-					"display_name": "Мини-Перетаскиватель",
-					"description": "Автоматический Голем-Переносчик."
-				}
-			}
-		}
-	},
-	"jobs": {
-		"builder": {
-			"builder_description": {
-				"display_name": "Строитель",
-				"description": "Строители выполняют базовые задачи вроде постройки зданий и размещения предметов.",
-				"requirements": "Необходимо разместить в мире, чтобы автоматизировать.",
-				"level_0_data": {
-					"title": "Строитель"
-				}
-			}
-		},
-		"mason": {
-			"recipes": {
-				"categories": {
-					"golem_mini_helpers": "Помощники-Големы"
-				},
-				"golem_restocking_recipe": {
-					"recipe_name": "Мини-Перетаскиватель"
-				},
-				"golem_mining_recipe": {
-					"recipe_name": "Мини-Шахтёр",
-					"flavor": "Ни одна гора не устоит перед киркой Копателя."
-				},
-				"golem_harvesting_recipe": {
-					"recipe_name": "Мини-Сборщик"
-				},
-				"golem_building_recipe": {
-					"recipe_name": "Мини-Строитель",
-					"description": "Выполняет строительные и горные задачи.",
-					"flavor": "Они будут строить весь день, но им потребуется помощь, чтобы спуститься, если застрянут. Они также ходят в шахты."
-				}
-			}
-		}
-	}
+  "entities": {
+    "monsters": {
+      "golems": {
+        "golem_building_mod": {
+          "display_name": "Мини-Строитель",
+          "description": "Автоматический голем-строитель."
+        },
+        "golem_harvesting_mod": {
+          "display_name": "Мини-Сборщик",
+          "description": "Автоматический голем-сборщик."
+        },
+        "golem_mining_mod": {
+          "display_name": "Мини-Шахтер",
+          "description": "Автоматический голем-шахтер."
+        },
+        "golem_restocking_mod": {
+          "display_name": "Мини-Пополнятель",
+          "description": "Автоматический голем-носильщик предметов."
+        }
+      }
+    }
+  },
+  "jobs": {
+    "builder": {
+      "builder_description": {
+        "display_name": "Строитель",
+        "description": "Строители выполняют базовые задачи, такие как возведение зданий и размещение предметов.",
+        "requirements": "Разместите в мире, чтобы он стал автоматическим.",
+        "level_0_data": {
+          "title": "Строитель"
+        }
+      }
+    },
+    "mason": {
+      "recipes": {
+        "categories": {
+          "golem_mini_helpers": "Помощники големов"
+        },
+        "golem_restocking_recipe": {
+          "recipe_name": "Мини-Пополнятель"
+        },
+        "golem_mining_recipe": {
+          "recipe_name": "Мини-Шахтер",
+          "flavor": "Никакая гора не выдержит кирки Шахтера."
+        },
+        "golem_harvesting_recipe": {
+          "recipe_name": "Мини-Сборщик"
+        },
+        "golem_building_recipe": {
+          "recipe_name": "Мини-Строитель",
+          "description": "Выполняет задачи по строительству и добыче руды.",
+          "flavor": "Они будут строить весь день, но им нужна помощь, чтобы спуститься, если они застрянут. Они также занимаются добычей руды."
+        }
+      }
+    }
+  }
 }

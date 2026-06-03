@@ -1,290 +1,287 @@
 {
-	"entities": {
-		"weapons": {},
-		"armor": {
-			
-			"winter_carpenter": {
-				"display_name": "Зимняя одежда плотника",
-				"description": "Согревает вашего плотника в холодные дни.",
-				"winter_carpenter_iconic": {
-					"display_name": "Зимняя одежда плотника",
-					"description": "Согревает вашего плотника в холодные дни."
-				}
-			},
-			"winter_trapper": {
-				"display_name": "Зимняя одежда зверолова",
-				"description": "Согревает вашего зверолова в холодные дни.",
-				"winter_trapper_iconic": {
-					"display_name": "Зимняя одежда зверолова",
-					"description": "Согревает вашего зверолова в холодные дни."
-				}
-			},
-			"winter_blacksmith": {
-				"display_name": "Зимняя одежда кузнеца",
-				"description": "Согревает вашего кузнеца в холодные дни.",
-				"winter_blacksmith_iconic": {
-					"display_name": "Зимняя одежда кузнеца",
-					"description": "Согревает вашего кузнеца в холодные дни."
-				}
-			},
-			"winter_cook": {
-				"display_name": "Зимняя одежда повара",
-				"description": "Согревает вашего повара в холодные дни.",
-				"winter_cook_iconic": {
-					"display_name": "Зимняя одежда повара",
-					"description": "Согревает вашего повара в холодные дни."
-				}
-			},
-			"winter_farmer": {
-				"display_name": "Зимняя одежда фермера",
-				"description": "Согревает вашего фермера в холодные дни.",
-				"winter_farmer_iconic": {
-					"display_name": "Зимняя одежда фермера",
-					"description": "Согревает вашего фермера в холодные дни."
-				}
-			},
-			"winter_engineer": {
-				"display_name": "Зимняя одежда инженера",
-				"description": "Согревает вашего инженера в холодные дни.",
-				"winter_engineer_iconic": {
-					"display_name": "Зимняя одежда инженера",
-					"description": "Согревает вашего инженера в холодные дни."
-				}
-			},
-			"winter_mason": {
-				"display_name": "Зимняя одежда каменотёса",
-				"description": "Согревает вашего каменотёса в холодные дни.",
-				"winter_mason_iconic": {
-					"display_name": "Зимняя одежда каменотёса",
-					"description": "Согревает вашего каменотёса в холодные дни."
-				}
-			},
-			"winter_herbalist": {
-				"display_name": "Зимняя одежда травника",
-				"description": "Согревает вашего травника в холодные дни.",
-				"winter_herbalist_iconic": {
-					"display_name": "Зимняя одежда травника",
-					"description": "Согревает вашего травника в холодные дни."
-				}
-			},
-			"winter_weaver": {
-				"display_name": "Зимняя одежда ткача",
-				"description": "Согревает вашего ткача в холодные дни.",
-				"winter_weaver_iconic": {
-					"display_name": "Зимняя одежда ткача",
-					"description": "Согревает вашего ткача в холодные дни."
-				}
-			},
-			"winter_shepherd": {
-				"display_name": "Зимняя одежда пастуха",
-				"description": "Согревает вашего пастуха в холодные дни.",
-				"winter_shepherd_iconic": {
-					"display_name": "Зимняя одежда пастуха",
-					"description": "Согревает вашего пастуха в холодные дни."
-				}
-			},
-			"winter_knight_steel": {
-				"display_name": "Зимняя стальная кольчуга",
-				"description": "Согревает ваших рыцарей в суровую погоду.",
-				"winter_knight_steel_iconic": {
-					"display_name": "Зимняя стальная кольчуга",
-					"description": "Согревает ваших рыцарей в суровую погоду."
-				}
-			},
-			"winter_knight_silver": {
-				"display_name": "Зимняя серебряная кольчуга",
-				"description": "Согревает ваших рыцарей даже в самые лютые морозы.",
-				"winter_knight_silver_iconic": {
-					"display_name": "Зимняя серебряная кольчуга",
-					"description": "Согревает ваших рыцарей даже в самые лютые морозы."
-				}
-			},
-			"winter_knight_silver_rc": {
-				"display_name": "Зимняя серебряная кольчуга",
-				"description": "Согревает ваших рыцарей даже в самые лютые морозы.",
-				"winter_knight_silver_rc_iconic": {
-					"display_name": "Зимняя серебряная кольчуга",
-					"description": "Согревает ваших рыцарей даже в самые лютые морозы."
-				}
-			},
-			"heavy_winter_weaver": {
-				"display_name": "Тяжёлая зимняя одежда ткача",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_weaver_iconic": {
-					"display_name": "Тяжёлая зимняя одежда ткача",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_carpenter": {
-				"display_name": "Тяжёлая зимняя одежда плотника",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_carpenter_iconic": {
-					"display_name": "Тяжёлая зимняя одежда плотника",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_trapper": {
-				"display_name": "Тяжёлая зимняя одежда зверолова",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_trapper_iconic": {
-					"display_name": "Тяжёлая зимняя одежда зверолова",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_engineer": {
-				"display_name": "Тяжёлая зимняя одежда инженера",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_engineer_iconic": {
-					"display_name": "Тяжёлая зимняя одежда инженера",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_herbalist": {
-				"display_name": "Тяжёлая зимняя одежда травника",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_herbalist_iconic": {
-					"display_name": "Тяжёлая зимняя одежда травника",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_shepherd": {
-				"display_name": "Тяжёлая зимняя одежда пастуха",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_shepherd_iconic": {
-					"display_name": "Тяжёлая зимняя одежда пастуха",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_cook": {
-				"display_name": "Тяжёлая зимняя одежда повара",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_cook_iconic": {
-					"display_name": "Тяжёлая зимняя одежда повара",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_farmer": {
-				"display_name": "Тяжёлая зимняя одежда фермера",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_farmer_iconic": {
-					"display_name": "Тяжёлая зимняя одежда фермера",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_blacksmith": {
-				"display_name": "Тяжёлая зимняя одежда кузнеца",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_blacksmith_iconic": {
-					"display_name": "Тяжёлая зимняя одежда кузнеца",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"heavy_winter_mason": {
-				"display_name": "Тяжёлая зимняя одежда каменотёса",
-				"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода.",
-				"heavy_winter_mason_iconic": {
-					"display_name": "яжёлая зимняя одежда каменотёса",
-					"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-				}
-			},
-			"jobs": {
-				"weaver": {
-					"winter_carpenter": {
-						"recipe_name": "Зимняя одежда плотника",
-						"description": "Согревает вашего плотника в холодные дни."
-					},
-					"winter_blacksmith": {
-						"recipe_name": "Зимняя одежда кузнеца",
-						"description": "Согревает вашего кузнеца в холодные дни."
-					},
-					"winter_trapper": {
-						"recipe_name": "Зимняя одежда зверолова",
-						"description": "Согревает вашего зверолова в холодные дни."
-					},
-					"winter_cook": {
-						"recipe_name": "Зимняя одежда повара",
-						"description": "Согревает вашего повара в холодные дни."
-					},
-					"winter_farmer": {
-						"recipe_name": "Зимняя одежда фермера",
-						"description": "Согревает вашего фермера в холодные дни."
-					},
-					"winter_engineer": {
-						"recipe_name": "Зимняя одежда инженера",
-						"description": "Согревает вашего инженера в холодные дни."
-					},
-					"winter_mason": {
-						"recipe_name": "Зимняя одежда каменотёса",
-						"description": "Согревает вашего каменотёса в холодные дни."
-					},
-					"winter_herbalist": {
-						"recipe_name": "Зимняя одежда травника",
-						"description": "Согревает вашего травника в холодные дни."
-					},
-					"winter_weaver": {
-						"recipe_name": "Зимняя одежда ткача",
-						"description": "Согревает вашего ткача в холодные дни."
-					},
-					"winter_shepherd": {
-						"recipe_name": "Зимняя одежда пастуха",
-						"description": "Согревает вашего пастуха в холодные дни."
-					},
-					"winter_knight_steel": {
-						"recipe_name": "Зимняя стальная кольчуга",
-						"description": "Согревает ваших рыцарей в суровую погоду."
-					},
-					"winter_knight_silver": {
-						"recipe_name": "Зимняя серебряная кольчуга",
-						"description": "Согревает ваших рыцарей даже в самые лютые морозы."
-					},
-					"winter_knight_silver_rc": {
-						"recipe_name": "Зимняя серебряная кольчуга",
-						"description": "Согревает ваших рыцарей даже в самые лютые морозы."
-					},
-					"heavy_winter_weaver": {
-						"recipe_name": "Тяжёлая зимняя одежда ткача",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_carpenter": {
-						"recipe_name": "Тяжёлая зимняя одежда плотника",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_cook": {
-						"recipe_name": "Тяжёлая зимняя одежда повара",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_farmer": {
-						"recipe_name": "Тяжёлая зимняя одежда фермера",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_trapper": {
-						"recipe_name": "Тяжёлая зимняя одежда зверолова",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_engineer": {
-						"recipe_name": "Тяжёлая зимняя одежда инженера",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_blacksmith": {
-						"recipe_name": "Тяжёлая зимняя одежда кузнеца",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_shepherd": {
-						"recipe_name": "Тяжёлая зимняя одежда пастуха",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_herbalist": {
-						"recipe_name": "Тяжёлая зимняя одежда травника",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					},
-					"heavy_winter_mason": {
-						"recipe_name": "Тяжёлая зимняя одежда каменотёса",
-						"description": "Позволяет оставаться в тепле и уюте даже в самые лютые холода."
-					}
-				}
-
-
-			}
-		}
-	}
+   "entities": {
+      "weapons": {},
+      "armor": {
+         "winter_carpenter": {
+            "display_name": "Зимний костюм Плотника",
+            "description": "Согревает вашего Плотника в холодные дни.",
+            "winter_carpenter_iconic": {
+               "display_name": "Зимний Наряд Плотника",
+               "description": "Согревает вашего Плотника в холодные дни."
+            }
+         },
+         "winter_trapper": {
+            "display_name": "Зимний наряд Зверолова",
+            "description": "Согревает Зверолова в холодные дни.",
+            "winter_trapper_iconic": {
+               "display_name": "Зимний комплект Зверолова",
+               "description": "Согревает вашего Зверолова в холодные дни."
+            }
+         },
+         "winter_blacksmith": {
+            "display_name": "Зимний наряд Кузнеца",
+            "description": "Согревает вашего Кузнеца в холодные дни.",
+            "winter_blacksmith_iconic": {
+               "display_name": "Зимний наряд Кузнеца",
+               "description": "Согревает вашего Кузнеца в холодные дни."
+            }
+         },
+         "winter_cook": {
+            "display_name": "Зимний наряд Повара",
+            "description": "Согревает вашего Повара в холодные дни.",
+            "winter_cook_iconic": {
+               "display_name": "Зимний наряд Повара",
+               "description": "Согревает вас в холодные дни."
+            }
+         },
+         "winter_farmer": {
+            "display_name": "Зимний наряд Земледельца",
+            "description": "Согревает вашего Земледельца в холодные дни.",
+            "winter_farmer_iconic": {
+               "display_name": "Зимний наряд Земледельца",
+               "description": "Согревает вас в холодные дни."
+            }
+         },
+         "winter_engineer": {
+            "display_name": "Зимний костюм Инженера",
+            "description": "Согревает вашего Инженера в холодные дни.",
+            "winter_engineer_iconic": {
+               "display_name": "Зимний костюм Инженера",
+               "description": "Согревает вашего Инженера в холодные дни."
+            }
+         },
+         "winter_mason": {
+            "display_name": "Зимний костюм Каменотёса",
+            "description": "Согревает вашего Каменотёса в холодные дни.",
+            "winter_mason_iconic": {
+               "display_name": "Зимний наряд Каменотёса",
+               "description": "Согревает вашего Каменотёса в холодные дни."
+            }
+         },
+         "winter_herbalist": {
+            "display_name": "Зимний наряд Травника",
+            "description": "Согревает вашего Травника в холодные дни.",
+            "winter_herbalist_iconic": {
+               "display_name": "Зимний наряд Травника",
+               "description": "Согревает вашего Травника в холодные дни."
+            }
+         },
+         "winter_weaver": {
+            "display_name": "Зимний Наряд Ткача",
+            "description": "Согревает вашего Ткача в холодные дни.",
+            "winter_weaver_iconic": {
+               "display_name": "Зимний наряд Ткача",
+               "description": "Согревает вашего Ткача в холодные дни."
+            }
+         },
+         "winter_shepherd": {
+            "display_name": "Зимний наряд Пастуха",
+            "description": "Согревает вашего Пастуха в холодные дни.",
+            "winter_shepherd_iconic": {
+               "display_name": "Зимний наряд пастуха",
+               "description": "Согревает вашего пастуха в холодные дни."
+            }
+         },
+         "winter_knight_steel": {
+            "display_name": "Зимняя стальная кольчуга",
+            "description": "Согревает ваших Рыцарей в холодную погоду.",
+            "winter_knight_steel_iconic": {
+               "display_name": "Зимняя стальная кольчуга",
+               "description": "Согревает ваших Рыцарей в холодную погоду."
+            }
+         },
+         "winter_knight_silver": {
+            "display_name": "Зимний серебряный доспех",
+            "description": "Согревает ваших Рыцарей даже в самые морозные дни.",
+            "winter_knight_silver_iconic": {
+               "display_name": "Зимняя серебряная броня",
+               "description": "Согревает ваших Рыцарей даже в самые морозные дни."
+            }
+         },
+         "winter_knight_silver_rc": {
+            "display_name": "Зимняя серебряная кольчуга",
+            "description": "Согревает ваших Рыцарей даже в самые морозные дни.",
+            "winter_knight_silver_rc_iconic": {
+               "display_name": "Зимняя серебряная кольчуга",
+               "description": "Согревает ваших Рыцарей даже в самые морозные дни."
+            }
+         },
+         "heavy_winter_weaver": {
+            "display_name": "Тяжёлый зимний наряд Ткача",
+            "description": "Позволяет оставаться тёплым и уютным даже в самую лютую стужу.",
+            "heavy_winter_weaver_iconic": {
+               "display_name": "Тяжёлый зимний наряд Ткача",
+               "description": "Позволяет оставаться тёплым и уютным даже в самой морозной погоде."
+            }
+         },
+         "heavy_winter_carpenter": {
+            "display_name": "Тяжёлый зимний комплект Плотника",
+            "description": "Позволяет оставаться тёплым и уютным даже в самую морозную погоду.",
+            "heavy_winter_carpenter_iconic": {
+               "display_name": "Тяжёлый зимний наряд Плотника",
+               "description": "Позволяет сохранять тепло и уют даже в самую морозную погоду."
+            }
+         },
+         "heavy_winter_trapper": {
+            "display_name": "Тяжёлый Зимний Комплект Зверолова",
+            "description": "Позволяет оставаться тёплым и уютным даже в самую лютую стужу.",
+            "heavy_winter_trapper_iconic": {
+               "display_name": "Тяжёлый зимний наряд Зверолова",
+               "description": "Обеспечивает тепло и уют даже в самые лютые морозы."
+            }
+         },
+         "heavy_winter_engineer": {
+            "display_name": "Тяжёлый зимний костюм Инженера",
+            "description": "Позволяет оставаться тёплым и уютным даже в самой морозной погоде.",
+            "heavy_winter_engineer_iconic": {
+               "display_name": "Тяжёлый Зимний Комплект Инженера",
+               "description": "Позволяет сохранять тепло и уют даже в самую морозную погоду."
+            }
+         },
+         "heavy_winter_herbalist": {
+            "display_name": "Зимний наряд Травника",
+            "description": "Позволяет сохранять тепло и уют даже в самые морозные дни.",
+            "heavy_winter_herbalist_iconic": {
+               "display_name": "Зимний Тяжелый Наряд Травника",
+               "description": "Позволяет оставаться теплым и уютным даже в самые суровые морозы."
+            }
+         },
+         "heavy_winter_shepherd": {
+            "display_name": "Тяжёлый зимний костюм Пастуха",
+            "description": "Позволяет оставаться тёплым и уютным даже в самой морозной погоде.",
+            "heavy_winter_shepherd_iconic": {
+               "display_name": "Тяжёлый зимний наряд пастуха",
+               "description": "Позволяет оставаться тёплым и уютным даже в самую суровую стужу."
+            }
+         },
+         "heavy_winter_cook": {
+            "display_name": "Тяжёлый Зимний Костюм Повара",
+            "description": "Позволяет оставаться тёплым и уютным даже в самой морозной погоде.",
+            "heavy_winter_cook_iconic": {
+               "display_name": "Тяжёлый Зимний Костюм Повара",
+               "description": "Позволяет оставаться тёплым и уютным даже в самую сильную стужу."
+            }
+         },
+         "heavy_winter_farmer": {
+            "display_name": "Тяжелый Зимний Наряд Земледельца",
+            "description": "Позволяет оставаться теплым и уютным даже в самую морозную погоду.",
+            "heavy_winter_farmer_iconic": {
+               "display_name": "Тяжёлый Зимний Наряд Земледельца",
+               "description": "Позволяет сохранять тепло и уют даже в самую лютую стужу."
+            }
+         },
+         "heavy_winter_blacksmith": {
+            "display_name": "Тяжёлый зимний костюм Кузнеца",
+            "description": "Позволяет оставаться тёплым и уютным даже в самые лютые морозы.",
+            "heavy_winter_blacksmith_iconic": {
+               "display_name": "Тяжёлый зимний костюм Кузнеца",
+               "description": "Позволяет оставаться тёплым и уютным даже в самый лютый холод."
+            }
+         },
+         "heavy_winter_mason": {
+            "display_name": "Тяжёлый Зимний Наряд Каменотёса",
+            "description": "Позволяет оставаться тёплым и уютным даже в самой морозной погоде.",
+            "heavy_winter_mason_iconic": {
+               "display_name": "Тяжёлый Зимний Костюм Каменотёса",
+               "description": "Позволяет оставаться тёплым и уютным даже в самую морозную погоду."
+            }
+         },
+         "jobs": {
+            "weaver": {
+               "winter_carpenter": {
+                  "recipe_name": "Зимний костюм Плотника",
+                  "description": "Согревает вашего Плотника в холодные дни."
+               },
+               "winter_blacksmith": {
+                  "recipe_name": "Зимний комплект Кузнеца",
+                  "description": "Согревает Кузнеца в холодные дни."
+               },
+               "winter_trapper": {
+                  "recipe_name": "Зимний комплект Зверолова",
+                  "description": "Согревает вашего Зверолова в холодные дни."
+               },
+               "winter_cook": {
+                  "recipe_name": "Зимний наряд Повара",
+                  "description": "Согревает вашего Повара в холодные дни."
+               },
+               "winter_farmer": {
+                  "recipe_name": "Зимний наряд Земледельца",
+                  "description": "Согревает вашего Земледельца в холодные дни."
+               },
+               "winter_engineer": {
+                  "recipe_name": "Зимний Костюм Инженера",
+                  "description": "Согревает вашего Инженера в холодные дни."
+               },
+               "winter_mason": {
+                  "recipe_name": "Зимний наряд Каменотёса",
+                  "description": "Согревает вашего Каменотёса в холодные дни."
+               },
+               "winter_herbalist": {
+                  "recipe_name": "Зимний костюм Травника",
+                  "description": "Согревает вашего Травника в холодные дни."
+               },
+               "winter_weaver": {
+                  "recipe_name": "Зимний наряд Ткача",
+                  "description": "Согревает вашего Ткача в холодные дни."
+               },
+               "winter_shepherd": {
+                  "recipe_name": "Зимний наряд Пастуха",
+                  "description": "Согревает вашего Пастуха в холодные дни."
+               },
+               "winter_knight_steel": {
+                  "recipe_name": "Зимняя стальная кольчуга",
+                  "description": "Согревает ваших Рыцарей в холодную погоду."
+               },
+               "winter_knight_silver": {
+                  "recipe_name": "Зимние серебряные латы",
+                  "description": "Согревает ваших Рыцарей даже в самые морозные дни."
+               },
+               "winter_knight_silver_rc": {
+                  "recipe_name": "Зимняя серебряная кольчуга",
+                  "description": "Согревает ваших рыцарей даже в самые морозные дни."
+               },
+               "heavy_winter_weaver": {
+                  "recipe_name": "Зимний тяжелый комплект Ткача",
+                  "description": "Согревает и укутывает даже в самые лютые морозы."
+               },
+               "heavy_winter_carpenter": {
+                  "recipe_name": "Тяжелый зимний наряд Плотника",
+                  "description": "Позволяет оставаться теплым и уютным даже в самую морозную погоду."
+               },
+               "heavy_winter_cook": {
+                  "recipe_name": "Тяжёлый зимний костюм Повара",
+                  "description": "Позволяет оставаться тёплым и уютным даже в самую сильную стужу."
+               },
+               "heavy_winter_farmer": {
+                  "recipe_name": "Тяжёлый Зимний Комплект Земледельца",
+                  "description": "Позволяет сохранять тепло и уют даже в самую морозную погоду."
+               },
+               "heavy_winter_trapper": {
+                  "recipe_name": "Тяжелый зимний наряд Зверолова",
+                  "description": "Позволяет оставаться теплым и уютным даже в самую лютую стужу."
+               },
+               "heavy_winter_engineer": {
+                  "recipe_name": "Тяжелый зимний комплект Инженера",
+                  "description": "Позволяет сохранять тепло и уют даже в самую лютую стужу."
+               },
+               "heavy_winter_blacksmith": {
+                  "recipe_name": "Тяжелый зимний наряд Кузнеца",
+                  "description": "Позволяет сохранять тепло и уют даже в самые лютые морозы."
+               },
+               "heavy_winter_shepherd": {
+                  "recipe_name": "Тяжёлый Зимний Наряд Пастуха",
+                  "description": "Сохраняет тепло и уют даже в самых суровых морозах."
+               },
+               "heavy_winter_herbalist": {
+                  "recipe_name": "Тяжёлый зимний комплект Травника",
+                  "description": "Позволяет оставаться тёплым и уютным даже в самую морозную погоду."
+               },
+               "heavy_winter_mason": {
+                  "recipe_name": "Тяжёлый зимний костюм Каменотёса",
+                  "description": "Позволяет оставаться тёплым и уютным даже в самую морозную погоду."
+               }
+            }
+         }
+      }
+   }
 }
