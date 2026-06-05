@@ -85,7 +85,7 @@
 		"music_changer/locales/ru.json": "file(translations/mods/music_changer/ru.json)",
 		"primitive_armory/locales/ru.json": "file(translations/mods/primitive_armory/ru.json)",
 		"royal/locales/ru.json": "file(translations/mods/royal/ru.json)",
-		"settlement_decor/locales/ru.json": "file(translations/mods/settlement_decor/ru.json)",
+		"settlementdecor/locales/ru.json": "file(translations/mods/settlementdecor/ru.json)",
 		"signery/locales/ru.json": "file(translations/mods/signery/ru.json)",
 		"specialized_loadouts/locales/ru.json": "file(translations/mods/specialized_loadouts/ru.json)",
 		"stonehearth_beam/locales/ru.json": "file(translations/mods/stonehearth_beam/ru.json)",
