@@ -1,0 +1,474 @@
+{
+  "data": {
+	"buffs": {
+		"fire_resist_buff": {
+            "display_name": "Safe from Burning",
+            "description": "Fire resistant scale armor protection.<ul><li>➕ This hearthling is protected from burning attacks</li></ul>"
+         }
+	},
+    "commands": {
+      "job_armor_variant": {
+        "asc_teal_archer": {
+          "display_name": "Prefer Ascendancy Light Armor",
+          "description": "This Archer currently prefers wearing Light armor made by the Ascendancy. Click to change!"
+        },
+        "asc_blue_archer": {
+          "display_name": "NOT ACTIVE",
+          "description": "You shouldnt see this in game"
+        },
+        "medium_archer": {
+          "display_name": "Prefer Medium Armor",
+          "description": "This Archer currently prefers wearing medium armor. Click to change!"
+        },
+        "na_blue_archer": {
+          "display_name": "NOT ACTIVE",
+          "description": "You shouldnt see this in game"
+        },
+        "na_yellow_archer": {
+          "display_name": "Prefer Northern Alliance Light Armor",
+          "description": "This Archer currently prefers wearing yellow armor made by the Northern Alliance. Click to change!"
+        },
+        "rc_black_archer": {
+          "display_name": "NOT ACTIVE",
+          "description": "Hou shouldnt see this in game"
+        },
+        "rc_red_archer": {
+          "display_name": "Prefer Rayya's Light Armor",
+          "description": "This Archer currently prefers wearing light armor made by Rayya's Children. Click to change!"
+        },
+        "asc_yellow_cleric": {
+          "display_name": "Prefer Ascendancy Light Armor",
+          "description": "This Cleric currently prefers wearing light armor made by the Ascendancy. Click to change!"
+        },
+        "asc_white_cleric": {
+          "display_name": "Prefer Ascendancy Medium Armor",
+          "description": "This Cleric currently prefers wearing medium armor made by the Ascendancy. Click to change!"
+        },
+        "na_blue_cleric": {
+          "display_name": "Prefer Northern Alliance Medium Armor",
+          "description": "This Cleric currently prefers wearing blue armor made by the Northern Alliance. Click to change!"
+        },
+        "na_yellow_cleric": {
+          "display_name": "Prefer Northern Alliance Light Armor",
+          "description": "This Cleric currently prefers wearing yellow armor made by the Northern Alliance. Click to change!"
+        },
+        "rc_black_cleric": {
+          "display_name": "Prefer Rayya's Medium Armor",
+          "description": "This Cleric currently prefers wearing medium armor made by Rayya's Children. Click to change!"
+        },
+        "rc_red_cleric": {
+          "display_name": "Prefer Rayya's Light Armor",
+          "description": "This Cleric currently prefers wearing light armor made by Rayya's Children. Click to change!"
+        },
+        "asc_blue_footman": {
+          "display_name": "Prefer Ascendancy Blue Armor",
+          "description": "This Footman currently prefers wearing blue armor made by the Ascendancy. Click to change!"
+        },
+        "asc_green_footman": {
+          "display_name": "Prefer Ascendancy Green Armor",
+          "description": "This Footman currently prefers wearing green armor made by the Ascendancy. Click to change!"
+        },
+        "asc_purple_footman": {
+          "display_name": "Prefer Ascendancy Purple Armor",
+          "description": "This Footman currently prefers wearing purple armor made by the Ascendancy. Click to change!"
+        },
+        "asc_red_footman": {
+          "display_name": "Prefer Ascendancy Red Armor",
+          "description": "This Footman currently prefers wearing red armor made by the Ascendancy. Click to change!"
+        },
+        "na_blue_footman": {
+          "display_name": "NOT  ACTIVE",
+          "description": "You shouldnt see this in game"
+        },
+        "na_yellow_footman": {
+          "display_name": "Prefer Northern Alliance Armor",
+          "description": "This Footman currently prefers wearing yellow armor made by the Northern Alliance. Click to change!"
+        },
+        "rc_black_footman": {
+          "display_name": "Prefer Rayya's Black Armor",
+          "description": "This Footman currently prefers wearing black armor made by Rayya's Children. Click to change!"
+        },
+        "rc_red_footman": {
+          "display_name": "Prefer Rayya's Red Armor",
+          "description": "This Footman currently prefers wearing red armor made by Rayya's Children. Click to change!"
+        },
+        "asc_blue_knight": {
+          "display_name": "Prefer Ascendancy Blue Armor",
+          "description": "This Knight currently prefers wearing blue armor made by the Ascendancy. Click to change!"
+        },
+        "asc_green_knight": {
+          "display_name": "Prefer Ascendancy Green Armor",
+          "description": "This Knight currently prefers wearing green armor made by the Ascendancy. Click to change!"
+        },
+        "asc_purple_knight": {
+          "display_name": "Prefer Ascendancy Purple Armor",
+          "description": "This Knight currently prefers wearing purple armor made by the Ascendancy. Click to change!"
+        },
+        "asc_red_knight": {
+          "display_name": "Prefer Ascendancy Red Armor",
+          "description": "This Knight currently prefers wearing red armor made by the Ascendancy. Click to change!"
+        },
+        "na_blue_knight": {
+          "display_name": "NOT ACTIVE",
+          "description": "You shouldnt see this in game"
+        },
+        "na_yellow_knight": {
+          "display_name": "Prefer Northern Alliance Armor",
+          "description": "This Knight currently prefers wearing yellow armor made by the Northern Alliance. Click to change!"
+        },
+        "rc_black_knight": {
+          "display_name": "Prefer Rayya's Black Armor",
+          "description": "This Knight currently prefers wearing black armor made by Rayya's Children. Click to change!"
+        },
+        "rc_red_knight": {
+          "display_name": "Prefer Rayya's Red Armor",
+          "description": "This Knight currently prefers wearing red armor made by Rayya's Children. Click to change!"
+        },
+        "ea_dy_archer": {
+          "display_name": "Prefer Dynasty Light Armor",
+          "description": "This Archer currently prefers wearing light armor made by the Eastern Dynasty. Click to change!"
+        },
+        "ea_dy_cleric": {
+          "display_name": "Prefer Dynasty Light Armor",
+          "description": "This Cleric currently prefers wearing light armor made by the Eastern Dynasty. Click to change!"
+        },
+        "ea_dy_footman": {
+          "display_name": "Prefer Dynasty Armor",
+          "description": "This Footman currently prefers wearing armor made by the Eastern Dynasty. Click to change!"
+        },
+        "ea_dy_knight": {
+          "display_name": "Prefer Dynasty Armor",
+          "description": "This Knight currently prefers wearing armor made by the Eastern Dynasty. Click to change!"
+        },
+        "asc_worker": {
+          "display_name": "Prefer Ascendancy Worker Outfits",
+          "description": "This Worker currently prefers wearing light outfits made by the Ascendancy. Click to change!"
+        },
+        "na_worker": {
+          "display_name": "Prefer Northern Alliance Worker Outfits",
+          "description": "This Worker currently prefers wearing outfits made by the Northern Alliance. Click to change!"
+        },
+        "rc_worker": {
+          "display_name": "Prefer Rayya's Worker Outfits",
+          "description": "This Worker currently prefers wearing outfits made by Rayya's Children. Click to change!"
+        },
+        "ea_dy_worker": {
+          "display_name": "Prefer Eastern Dynasty Worker Outfits",
+          "description": "This Worker currently prefers wearing outfits made by the Eastern Dynasty. Click to change!"
+        },
+		"clanmuramasa_worker": {
+               "display_name": "Prefer Muramasa Worker Outfits",
+               "description": "This Worker currently prefers wearing outfits made by the Muramasa. Click to change!"
+        }
+      }
+    }
+  },
+  "entities": {
+    "armor": {
+      "lord_silver_mail": { "display_name": "Lord's Silver Mail" },
+      "lord_silver_helmet": { "display_name": "Lord's Silver Helmet" },
+      "na_lord_silver_mail": { "display_name": "Lord's Northern Silver Mail" },
+      "na_lord_silver_helmet": { "display_name": "Lord's Northern Silver Helmet" },
+      "rc_lord_silver_mail": { "display_name": "Lord's Desert Silver Mail" },
+      "rc_lord_silver_helmet": { "display_name": "Lord's Desert Silver Helmet" },
+      "green_steel_chainmail": { "display_name": "Green Steel Mail" },
+      "green_silver_mail": { "display_name": "Green Silver Mail" },
+      "green_silver_helmet": { "display_name": "Green Silver Helmet" },
+      "purple_steel_chainmail": { "display_name": "Purple Steel Mail" },
+      "purple_silver_mail": { "display_name": "Purple Silver Mail" },
+      "purple_silver_helmet": { "display_name": "Purple Silver Helmet" },
+      "blue_silver_mail": { "display_name": "Blue Silver Mail" },
+      "blue_silver_helmet": { "display_name": "Blue Silver Helmet" },
+      "na_horned_steel_helm": { "display_name": "Horned Steel Northern Helm" },
+      "red_steel_chainmail": {
+        "display_name": "Red Steel Chainmail"
+      },
+      "leather_archer_vest": {
+        "display_name": "Padded Archer Vest",
+        "description": "Extra padding for a little extra survivability!"
+      },
+      "rc_leather_archer_vest": { "display_name": "Padded Archer Desert Vest" },
+      "na_leather_archer_vest": { "display_name": "Padded Archer Northern Vest" },
+      "varanus_skin_armor": {
+        "display_name": "Varanus Skin Armor",
+        "description": "Armor made from Varanus skin."
+      },
+      "zilla_scale_armor": {
+        "display_name": "Zilla Scale Armor",
+        "description": "Armor forged using Steel and Zilla scales!"
+      },
+      "rc_black_steel_chainmail": { "display_name": "Black Steel Lamellar Armor" },
+      "rc_black_steel_helm": { "display_name": "Black Steel Desert Helm" },
+      "rc_black_steel_mail": { "display_name": "Black Steel Gilded Cuirass" },
+      "rc_black_steel_helmet": { "display_name": "Black Steel Desert Helmet" },
+      "rc_black_silver_mail": { "display_name": "Black Silver Gilded Cuirass" },
+      "rc_black_silver_helmet": {
+        "display_name": "Black Silver Desert Helmet"
+      },
+      "padded_cleric_armor": {
+        "display_name": "Padded Cleric Robes",
+        "description": "Cleric Robes with some cloth padding for a little bit of protection."
+      },
+      "rc_padded_cleric_armor": {
+        "display_name": "Padded Rayya's Cleric Robes",
+        "description": "Cleric Robes with some cloth padding for a little bit of protection."
+      },
+      "na_padded_cleric_armor": {
+        "display_name": "Padded Northern Cleric Robes",
+        "description": "Cleric Robes with some cloth padding for a little bit of protection."
+      },
+      "bronze_cleric_breastplate": {
+        "display_name": "Cleric Bronze Breastplate",
+        "description": "Minor protection for divine intervention."
+      },
+      "iron_cleric_mail": {
+        "display_name": "Cleric Iron Mail",
+        "description": "Good protection for divine intervention."
+      },
+      "rc_bronze_cleric_breastplate": {
+        "display_name": "Cleric Bronze Lamellar Armor"
+      },
+      "rc_iron_cleric_mail": { "display_name": "Cleric Iron Lamellar Armor" },
+      "rc_steel_cleric_chainmail": { "display_name": "Cleric Steel Lamellar Armor" },
+      "na_bronze_cleric_breastplate": { "display_name": "Cleric Bronze Hauberk" },
+      "na_iron_cleric_mail": { "display_name": "Cleric Iron Hauberk" },
+      "blacksmith_outfit_2": {
+        "display_name": "Upgraded Blacksmith Outfit",
+                  "description": "Nice change of clothes",
+                  "blacksmith_outfit_2_iconic": {
+                    "display_name": "Blacksmith Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "carpenter_outfit_2": {
+        "display_name": "Upgraded Carpenter Outfit",
+                  "description": "Nice change of clothes",
+                  "carpenter_outfit_2_iconic": {
+                    "display_name": "Carpenter Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "cook_outfit_2": {
+        "display_name": "Upgraded Cook Outfit",
+                  "description": "Nice change of clothes",
+                  "cook_outfit_2_iconic": {
+                    "display_name": "Cook Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "engineer_outfit_2": {
+        "display_name": "Upgraded Engineer Outfit",
+                  "description": "Nice change of clothes",
+                  "engineer_outfit_2_iconic": {
+                    "display_name": "Engineer Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "farmer_outfit_2": {
+        "display_name": "Upgraded Farmer Outfit",
+                  "description": "Nice change of clothes",
+                  "farmer_outfit_2_iconic": {
+                    "display_name": "Farmer Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "herbalist_outfit_2": {
+        "display_name": "Upgraded Herbalist Outfit",
+                  "description": "Nice change of clothes",
+                  "herbalist_outfit_2_iconic": {
+                    "display_name": "Herbalist Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "mason_outfit_2": {
+        "display_name": "Upgraded Mason Outfit",
+                  "description": "Nice change of clothes",
+                  "mason_outfit_2_iconic": {
+                    "display_name": "Mason Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "potter_outfit_2": {
+        "display_name": "Upgraded Potter Outfit",
+                  "description": "Nice change of clothes",
+                  "potter_outfit_2_iconic": {
+                    "display_name": "Potter Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "shepherd_outfit_2": {
+        "display_name": "Upgraded Shepherd Outfit",
+                  "description": "Nice change of clothes",
+                  "shepherd_outfit_2_iconic": {
+                    "display_name": "Shepherd Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "trapper_outfit_2": {
+        "display_name": "Upgraded Trapper Outfit",
+                  "description": "Nice change of clothes",
+                  "trapper_outfit_2_iconic": {
+                    "display_name": "Trapper Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "weaver_outfit_2": {
+        "display_name": "Upgraded Weaver Outfit",
+                  "description": "Nice change of clothes",
+                  "weaver_outfit_2_iconic": {
+                    "display_name": "Weaver Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "brewer_outfit_2": {
+        "display_name": "Upgraded Brewer Outfit",
+                  "description": "Nice change of clothes",
+                  "brewer_outfit_2_iconic": {
+                    "display_name": "Brewer Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "geomancer_outfit_2": {
+        "display_name": "Upgraded Geomancer Outfit",
+                  "description": "Nice change of clothes",
+                  "geomancer_outfit_2_iconic": {
+                    "display_name": "Geomancer Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              },
+      "fisher_outfit_2": {
+        "display_name": "Upgraded Fisher Outfit",
+                  "description": "Nice change of clothes",
+                  "fisher_outfit_2_iconic": {
+                    "display_name": "Fisher Upgraded Outfit",
+                    "description": "Nice change of clothes"
+                 }
+              }
+    },
+	"monsters": {
+	  "forest": {
+        "varanus_zilla": {
+               "display_name": "Varanus Zilla",
+               "description": "It's bark is worse than it's burn."
+            }
+      }		  
+	}
+  },
+  "jobs": {
+    "weaver": {
+      "recipes": {
+        "leather_archer_vest_recipe": {
+          "description": "Provides little additional protection for your archers",
+          "flavor": "Any defense is good defense!"
+        },
+        "varanus_skin_armor_recipe": {
+          "description": "Armor made out of Varanus skin for experienced fighters",
+          "flavor": "Almost feel bad for them...almost."
+        },
+        "padded_cleric_armor_recipe": {
+          "description": "Some extra Cloth padding protection!",
+          "flavor": "With a little bit of extra color!"
+        },
+        "blacksmith_outfit_2_recipe": {
+          "description": "A nice change of clothes. The blacksmith who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Blacksmith Outfit",
+          "flavor": "Stylish!"
+        },
+        "carpenter_outfit_2_recipe": {
+          "description": "A nice change of clothes. The carpenter who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Carpenter Outfit",
+          "flavor": "Stylish!"
+        },
+        "cook_outfit_2_recipe": {
+          "description": "A nice change of clothes. The cook who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Cook Outfit",
+          "flavor": "Stylish!"
+        },
+        "engineer_outfit_2_recipe": {
+          "description": "A nice change of clothes. The engineer who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Engineer Outfit",
+          "flavor": "Stylish!"
+        },
+        "farmer_outfit_2_recipe": {
+          "description": "A nice change of clothes. The farmer who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Farmer Outfit",
+          "flavor": "Stylish!"
+        },
+        "herbalist_outfit_2_recipe": {
+          "description": "A nice change of clothes. The herbalist who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Herbalist Outfit",
+          "flavor": "Stylish!"
+        },
+        "mason_outfit_2_recipe": {
+          "description": "A nice change of clothes. The mason who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Mason Outfit",
+          "flavor": "Stylish!"
+        },
+        "potter_outfit_2_recipe": {
+          "description": "A nice change of clothes. The potter who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Potter Outfit",
+          "flavor": "Stylish!"
+        },
+        "shepherd_outfit_2_recipe": {
+          "description": "A nice change of clothes. The shepherd who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Shepherd Outfit",
+          "flavor": "Stylish!"
+        },
+        "trapper_outfit_2_recipe": {
+          "description": "A nice change of clothes. The trapper who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Trapper Outfit",
+          "flavor": "Stylish!"
+        },
+        "weaver_outfit_2_recipe": {
+          "description": "A nice change of clothes. The weaver who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Weaver Outfit",
+          "flavor": "Stylish!"
+        },
+        "brewer_outfit_2_recipe": {
+          "description": "A nice change of clothes. The brewer who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Brewer Outfit",
+          "flavor": "Finally!"
+        },
+        "geomancer_outfit_2_recipe": {
+          "description": "A nice change of clothes. The geomancer who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Geomancer Outfit",
+          "flavor": "Finally!"
+        },
+        "fisher_outfit_2_recipe": {
+          "description": "A nice change of clothes. The fisher who dons this upgrade outfit will move faster.",
+               "recipe_name": "Upgraded Fisher Outfit",
+          "flavor": "Finally!"
+        }
+      }
+    },
+    "blacksmith": {
+      "recipes": {
+        "blue_armor_name": "Blue Armor",
+        "green_armor_name": "Green Armor",
+        "purple_armor_name": "Purple Armor",
+        "red_armor_name": "Red Armor",
+        "black_armor_name": "Black Armor",
+        "bronze_cleric_breastplate_recipe": {
+          "description": "Provides some extra protection for your wanna-be Paladins. Gives no additional healing bonuses.",
+          "flavor": "Does not require lawful good alignment."
+        },
+        "iron_cleric_mail_recipe": {
+          "description": "Provides good extra protection for your wanna-be Paladins. Gives no additional healing bonuses.",
+          "flavor": "Requires the Strength domain to equip."
+        },
+        "zilla_scale_armor_recipe": {
+          "description": "Armour made out of Zilla scales, for your most experienced fighters",
+          "flavor": "Will surely strike fear into your foes!"
+        },
+        "lord_silver_mail_recipe": {
+          "description": "The best armor possible for our leader",
+          "flavor": "The best reserved for the best!"
+        },
+        "lord_silver_helmet_recipe": {
+          "description": "The best headgear possible for our leader",
+          "flavor": "The best reserved for the best!"
+        }
+      }
+    }
+  }
+}

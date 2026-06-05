@@ -11,7 +11,12 @@
 	"mixintos" : {
 		"stonehearth/locales/supported_languages.json": "file(added_languages.json)",
 		"stonehearth/locales/ru.json": "stonehearth_ace/locales/ru_mixin.json",
-		
+
+		"box_o_vox/locales/en_mixin.json": "file(translations/mods/2_box_o_vox/ru_mixin.json)",
+		"care_cats/locales/en_mixin_client_ui.json": "file(translations/mods/3_care_cats/ru_mixin_client_ui.json)",
+		"cm/locales/en_mixin_beast_tamer_cm_ui_manifest.json": "file(translations/mods/3_care_cats/ru_mixin_beast_tamer_cm_ui_manifest.json)",
+		"care_cats/locales/en_mixin_cm_settlementdecor.json": "file(translations/mods/3_care_cats/ru_mixin_cm_settlementdecor.json)",
+
 		"winter_outfits/jobs/weaver/recipes/heavy_winter_blacksmith_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_blacksmith_recipe.json)",
 		"winter_outfits/jobs/weaver/recipes/winter_blacksmith_recipe.json": "file(translations/mods/winter_outfits/jobs/winter_blacksmith_recipe.json)",
 		"winter_outfits/jobs/weaver/recipes/heavy_winter_carpenter_recipe.json": "file(translations/mods/winter_outfits/jobs/heavy_winter_carpenter_recipe.json)",
@@ -44,35 +49,60 @@
 		"rayyas_children/locales/ru.json": "file(translations/rayyas_children/rc_ru.json)",
 		"northern_alliance/locales/ru.json": "file(translations/northern_alliance/na_ru.json)",
 		
-		"stonehearth_ace/locales/ru.json":  "file(translations/mods/stonehearth_ace/ace_ru.json)",
-		"stonehearth_ace/locales/ru_mixin.json": "file(translations/mods/stonehearth_ace/ace_mixin_ru.json)",
+		"box_o_vox/locales/ru.json": "file(translations/mods/2_box_o_vox/ru.json)",
+		"care_cats/locales/ru.json": "file(translations/mods/3_care_cats/ru.json)",
+		"char_dwarf/locales/ru.json": "file(translations/mods/4_char_dwarf/ru.json)",
+		"cm/locales/ru.json": "file(translations/mods/5_cm/ru.json)",
+		"nordlingmod/locales/ru.json": "file(translations/mods/6_nordlingmod/ru.json)",
+		"serene_league/locales/ru.json": "file(translations/mods/7_serene_league/ru.json)",
+		"swamp_goblins/locales/ru.json": "file(translations/mods/8_swamp_goblins/ru.json)",
+
 		"ace_composting/locales/ru.json": "file(translations/mods/ace_composting/ru.json)",
-		
+		"archipelago_biome/locales/ru.json": "file(translations/mods/archipelago_biome/ru.json)",
 		"autoharvest_mod/locales/ru.json": "file(translations/mods/autoharvest_mod/ru.json)",
 		"battle_break/locales/ru.json": "file(translations/mods/battle_break/ru.json)",
-		"box_o_vox/locales/ru.json": "file(translations/mods/box_o_vox/ru.json)",
-		"care_cats/locales/ru.json": "file(translations/mods/care_cats/ru.json)",
 		"chimney_emitters/locales/ru.json": "file(translations/mods/chimney_emitters/ru.json)",
+		"combat_dash/locales/ru.json": "file(translations/mods/combat_dash/ru.json)",
 		"core_dani/locales/ru.json": "file(translations/mods/core_dani/ru.json)",
+		"creative_mode/locales/ru.json": "file(translations/mods/creative_mode/ru.json)",
+		"cy_armor_expansion/locales/ru.json": "file(translations/mods/cy_armor_expansion/ru.json)",
+		"cy_enemy_expansion/locales/ru.json": "file(translations/mods/cy_enemy_expansion/ru.json)",
+		"cy_expedition/locales/ru.json": "file(translations/mods/cy_expedition/ru.json)",
+		"cy_furnitures/locales/ru.json": "file(translations/mods/cy_furnitures/ru.json)",
+		"cy_kmt/locales/ru.json": "file(translations/mods/cy_kmt/ru.json)",	
+		"cy_pet_expansion/locales/ru.json": "file(translations/mods/cy_pet_expansion/ru.json)",
+		"engineer_golems/locales/ru.json": "file(translations/mods/engineer_golems/ru.json)",
 		"ethereal_storage/locales/ru.json": "file(translations/mods/ethereal_storage/ru.json)",
 		"extra_map_options/locales/ru.json": "file(translations/mods/extra_map_options/ru.json)",
-		"extraload/locales/ru.json": "file(translations/mods/loadouts/ru.json)",
 		"finery/locales/ru.json": "file(translations/mods/finery/ru.json)",
+		"glowy_windows/locales/ru.json": "file(translations/mods/glowy_windows/ru.json)",
 		"hunter/locales/ru.json": "file(translations/mods/hunter/ru.json)",
-		"kmnky_traits/locales/ru.json": "file(translations/mods/kmnky_traits/ru.json)",
+		"kai_monkey_traits/locales/ru.json": "file(translations/mods/kai_monkey_traits/ru.json)",
+		"lostems/locales/ru.json": "file(translations/mods/lostems/ru.json)",
+		
 		"miner_prof/locales/ru.json": "file(translations/mods/miner_prof/ru.json)",
 		"mini_helpers/locales/ru.json": "file(translations/mods/mini_helpers/ru.json)",
-		"nordlingmod/locales/ru.json": "file(translations/mods/nordlingmod/ru.json)",
+		"music_changer/locales/ru.json": "file(translations/mods/music_changer/ru.json)",
 		"primitive_armory/locales/ru.json": "file(translations/mods/primitive_armory/ru.json)",
 		"royal/locales/ru.json": "file(translations/mods/royal/ru.json)",
+		"settlement_decor/locales/ru.json": "file(translations/mods/settlement_decor/ru.json)",
+		"signery/locales/ru.json": "file(translations/mods/signery/ru.json)",
+		"specialized_loadouts/locales/ru.json": "file(translations/mods/specialized_loadouts/ru.json)",
 		"stonehearth_beam/locales/ru.json": "file(translations/mods/stonehearth_beam/ru.json)",
+		"stonehearth_performance_mod/locales/ru.json": "file(translations/mods/stonehearth_performance_mod/ru.json)",
+		"strategic_silos/locales/ru.json": "file(translations/mods/strategic_silos/ru.json)",
 		"titans_fury/locales/ru.json": "file(translations/mods/titans_fury/ru.json)",
 		"training_manuals/locales/ru.json": "file(translations/mods/training_manuals/ru.json)",
-		"signery/locales/ru.json": "file(translations/mods/signery/ru.json)",
-		"swamp_goblins/locales/ru.json": "file(translations/mods/swamp_goblins/ru.json)",
 		"trapper_plus/locales/ru.json": "file(translations/mods/trapper_plus/ru.json)",
+		"trapper_plus_taxidermy/locales/ru.json": "file(translations/mods/trapper_plus_taxidermy/ru.json)",
+		"whats_stuck/locales/ru.json": "file(translations/mods/whats_stuck/ru.json)",
 		"winter_outfits/locales/ru.json": "file(translations/mods/winter_outfits/ru.json)",
-		"wizq/locales/en.json": "file(translations/mods/wizq/ru.json)"
+		"wizq/locales/ru.json": "file(translations/mods/wizq/ru.json)",
+		
+		"stonehearth_ace/locales/ru.json":  "file(translations/mods/1_stonehearth_ace/ru.json)",
+		"stonehearth_ace/locales/ru_mixin.json": "file(translations/mods/1_stonehearth_ace/ru_mixin.json)"
+
+
 	},
 	"ui": {
       "less": [

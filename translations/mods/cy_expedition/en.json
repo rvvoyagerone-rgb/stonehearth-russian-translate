@@ -1,0 +1,33 @@
+{
+   "ui": {
+      "game": {
+         "citizens": {
+            "expedition_button": "Expedition"
+         }
+      }
+   },
+   "data": {
+      "gm": {
+         "campaigns": {
+            "expedition": {
+               "supplies_quest": {
+                  "title": "Expedition Supplies",
+                  "dialog_title": "Prepare the Expedition",
+                  "text": "An expedition requires significant resources. Provide the required resources to cover the costs."
+               },
+               "dispatch_quest": {
+                  "title": "Select Who Departs",
+                  "dialog_title": "Select a Hearthling",
+                  "text": "Select a hearthling to send on an expedition. WARNING: They will not return."
+               },
+               "departure_dialog": {
+                  "title": "Expedition Underway",
+                  "dialog_title": "Farewell",
+                  "message": "Your hearthling begins to depart on their expedition. We wish them the best of luck!",
+                  "choice_000": "Farewell."
+               }
+            }
+         }
+      }
+   }
+}
