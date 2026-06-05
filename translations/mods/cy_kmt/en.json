@@ -1,0 +1,66 @@
+{
+   "traits": {
+      "scarred": {
+         "description": "This poor hearthling suffered an injury many moons ago. It left [name(i18n_data.entity)] disfigured, but they learned a lot from the incident. This hearthling gains +1 body, but at the cost of a Happiness and significant Willpower decrease.",
+         "display_name": "Scarred"
+      },
+      "wizened": {
+         "display_name": "Wizened",
+         "description": "Time has greyed [name(i18n_data.entity)]'s hair, slowed their joints, and taken away most of their sight, but it has taught them many valuable lessons. This heathling gains +1 mind, but has a significant movement speed decrease."
+      },
+      "divine_soul": {
+         "display_name": "Divine Soul",
+         "description": "Since adolescence the healing powers of Cid have flowed through [name(i18n_data.entity)]'s fingers. This hearthling joins the town already trained as a cleric and with increased Compassion, but at the cost of a significant Stamina decrease. Can not become a Knight."
+      },
+      "noble": {
+         "display_name": "Noble Lineage",
+         "description": "[name(i18n_data.entity)] is slightly spoilt, and will be extremely unhappy if their job is \"beneath them\". Their fellow hearlthings put up with this due to the financial investment they make when joining the town."
+      },
+      "jack_of_trades": {
+         "display_name": "Jack of all Trades",
+         "description": "[name(i18n_data.entity)] gains levels of jobs much faster than their peers... at least at first. Beyond level 3 their XP is gained much slower..."
+      },
+      "barbarian": {
+         "display_name": "Barbarian",
+         "description": "Hailing from savage lands, [name(i18n_data.entity)] has a fierce fighting style. This hearthling joins the town already trained as a footman and with increased Muscle, but at the cost of a significant Stamina decrease. Can not become a Knight."
+      },
+      "pacifist": {
+         "display_name": "Pacifist",
+         "description": "[name(i18n_data.entity)] believes that violence isn't the answer to lifes problems. This hearthling gains +1 Spirit, but is unable to work Combat Jobs."
+      },
+      "martial_trained": {
+         "display_name": "Martial Trained",
+         "description": "[name(i18n_data.entity)] has trained extensively in the art of combat. This hearthling gains 2x XP in combat jobs, but loses diligence and curiousity when not in a Fighter occupation."
+      }
+   },
+   "buffs": {
+      "beginners_luck": {
+         "display_name": "Beginner's Luck",
+         "description": "Jack of all trades is giving 4x XP until..."
+      },
+      "beginners_luck_run_dry": {
+         "display_name": "Beginner's Luck Run Dry",
+         "description": "This hearthling now only recieves 70% of the XP gained"
+      },
+      "martial_combat_xp": {
+         "display_name": "Martial Trained",
+         "description": "This hearthling is in their element — gaining 2x XP in combat roles and has a small courage boost."
+      },
+      "martial_civilian_xp": {
+         "display_name": "Out of Their Element",
+         "description": "All this hearthling has ever known was to train for combat — has a reduction in dilligence and curiousity."
+      }
+   },
+   "data": {
+      "thoughts": {
+         "disfigured": {
+            "display_name": "Disfigured",
+            "tooltip": "Although I am proud of the story behind it, I am ashamed of how this scar makes me look..."
+         },
+         "job_beneath_me": {
+            "display_name": "This job is beneath me",
+            "tooltip": "You might be able to force me to do this job, but i shan't be happy about it!"
+         }
+      }
+   }
+}

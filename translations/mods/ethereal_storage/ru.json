@@ -1,25 +1,25 @@
 {
-   "entities": {
-      "ethereal_storage": {
-         "display_name": "Эфемерное Хранилище"
+  "entities": {
+    "ethereal_storage": {
+      "display_name": "Эфирное хранилище"
+    }
+  },
+  "ui": {
+    "shell": {
+      "settings": {
+        "gameplayTab": {
+          "universal_storage_access_node_effect": "Эффект узла доступа:",
+          "universal_storage_access_node_effect_description": "Применяет выбранный эффект ко всем узлам доступа (обычным сущностям хранения) для эфирного хранилища игрока.",
+          "access_node_effect": {
+            "none": "Нет",
+            "none_description": "Эффект не применен.",
+            "purple_void": "Пурпутная Пустота",
+            "purple_void_description": "Эффект пурпутной пустоты, медленно засасывающий всё вокруг.",
+            "warm_glow": "Теплое сияние",
+            "warm_glow_description": "Эффект теплого сияния, похожий на тусклую лампу."
+          }
+        }
       }
-   },
-   "ui": {
-      "shell": {
-         "settings": {
-            "gameplayTab": {
-               "universal_storage_access_node_effect": "Эффект Узла Доступа:",
-               "universal_storage_access_node_effect_description": "Применяет выбранный эффект ко всем узлам доступа (обычные объекты-хранилища) для Эфемерного Хранилища игрока.",
-               "access_node_effect": {
-                  "none": "Нет",
-                  "none_description": "Эффект не применяется.",
-                  "purple_void": "Фиолетовая Пустота",
-                  "purple_void_description": "ффект фиолетовой пустоты, медленно втягивающей всё внутрь.",
-                  "warm_glow": "Тёплое Сияние",
-                  "warm_glow_description": "Эффект тёплого свечения, напоминающий мягкий свет лампы."
-               }
-            }
-         }
-      }
-   }
+    }
+  }
 }

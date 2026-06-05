@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "monsters": {
+      "volcanic": {
+        "magma_varanus": {
+          "display_name": "Магма Варанус",
+          "description": "Рожден в самых глубоких недрах земли."
+        },
+        "magma_golem": {
+          "display_name": "Магматический Голем",
+          "description": "Пробужден с огненной яростью из-за деятельности на поверхности."
+        }
+      }
+    }
+  },
+  "data": {
+    "gm": {
+      "campaigns": {
+        "ambient_threats": {
+          "cy_undergrowth_raid_insane": {
+            "undergrowth_soldier": {
+              "display_name": "Солдат Подлеска",
+              "description": "Защитник Подлеска. Сильнее вашего обычного Дрона."
+            }
+          }
+        }
+      }
+    }
+  }
+}

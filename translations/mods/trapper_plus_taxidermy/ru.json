@@ -1,0 +1,180 @@
+{
+   "decorations": {
+      "mounted_wolf": {
+         "display_name": "Волк в седле",
+         "description": "Декоративный, набитый волк в устрашающей позе.",
+         "flavor": "Его зубы по-прежнему опасны.",
+         "mounted_desert_wolf": {
+            "display_name": "Пустынный Волк на Седле"
+         },
+         "mounted_arctic_wolf": {
+            "display_name": "Полярный Волк в седле"
+         },
+         "mounted_warg": {
+            "display_name": "Верховой Варг"
+         }
+      },
+      "mounted_fox": {
+         "display_name": "Седланная Лиса",
+         "description": "Красивая лиса, набитая для украшения.",
+         "flavor": "",
+         "mounted_fennec_fox": {
+            "display_name": "Верховой Фенек"
+         },
+         "mounted_arctic_fox": {
+            "display_name": "Наездник на Полярную Лису"
+         }
+      },
+      "mounted_deer": {
+         "description": "Обычное лесное животное, превращенное в экзотический декор.",
+         "display_name": "Оседланный олень",
+         "flavor": "",
+         "mounted_gazelle_cow": {
+            "display_name": "Верхом Газель-Корова",
+            "description": "Мирный травоядный из засушливых кустарников, превращенный в украшение."
+         },
+         "mounted_red_deer": {
+            "display_name": "Благородный олень верхом"
+         },
+         "mounted_moose_cow": {
+            "display_name": "Лось-корова верхом"
+         }
+      },
+      "mounted_varanus": {
+         "display_name": "Посаженный Варанус",
+         "description": "Раньше это была угроза, но теперь этот крупный рептилий служит украшением.",
+         "flavor": ""
+      },
+      "mounted_stag": {
+         "display_name": "Седлованный Олень",
+         "description": "Уважительное и мудрое существо леса, теперь заготовленное Звероловом.",
+         "flavor": "Потрясающе!",
+         "mounted_gazelle": {
+            "display_name": "Газель в седле",
+            "description": "Когда-то гордость своей стаи, теперь лишь украшение..."
+         },
+         "mounted_caribou": {
+            "display_name": "Посаженный Карибу"
+         },
+         "mounted_moose": {
+            "display_name": "Верховой Лось"
+         }
+      },
+      "mounted_squirrel": {
+         "display_name": "Посаженная Белка",
+         "description": "Небольшой экзотический предмет декорации.",
+         "flavor": "",
+         "mounted_ground_squirrel": {
+            "display_name": "Верховая полевая белка"
+         },
+         "mounted_gray_squirrel": {
+            "display_name": "Посаженная Серая Белка"
+         },
+         "mounted_red_squirrel": {
+            "display_name": "Верховая Красная Белка"
+         }
+      },
+      "mounted_racoon": {
+         "display_name": "Седлованный Енот",
+         "description": "Набитый енот, используемый в качестве украшения.",
+         "flavor": "Нет ничего подобного, кроме этого.",
+         "mounted_brown_racoon": {
+            "display_name": "Коричневый енот на седле"
+         },
+         "mounted_arctic_racoon": {
+            "display_name": "Верховой Арктический Енот"
+         },
+         "mounted_skunk": {
+            "display_name": "Седлованный Скункс",
+            "description": "Набитый горный скункс, используемый в качестве украшения."
+         }
+      },
+      "mounted_rabbit": {
+         "display_name": "Седлованный Кролик",
+         "description": "Малое и беззащитное создание, навеки застывшее во времени.",
+         "flavor": "",
+         "mounted_brown_hare": {
+            "display_name": "Коричневый Заяц на Седле"
+         },
+         "mounted_snow_hare": {
+            "display_name": "Верховой Снежный Заяц"
+         },
+         "mounted_gray_rabbit": {
+            "display_name": "Серый Кролик на Поводке"
+         }
+      },
+      "mounted_cougar": {
+         "display_name": "Пума на стене",
+         "description": "Когда-то свирепый хищник, эта шкура пумы — потрясающий экспонат.",
+         "flavor": "",
+         "mounted_panther": {
+            "display_name": "Верховая пантера"
+         },
+         "mounted_snow_leopard": {
+            "display_name": "Верховой Снежный Барс"
+         },
+         "mounted_tiger": {
+            "display_name": "Седлованный Тигр"
+         }
+      },
+      "mounted_boar": {
+         "display_name": "Кабан",
+         "description": "Хитрый и сильный лесной зверь, заготовленный Звероловом.",
+         "flavor": ""
+      },
+      "wall_cougar_trophy": {
+         "display_name": "Настенный трофей пумы",
+         "description": "Изысканное украшение для жилища гордого охотника.",
+         "flavor": "",
+         "wall_panther_trophy": {
+            "display_name": "Настенный трофей пантеры"
+         },
+         "wall_snow_leopard_trophy": {
+            "display_name": "Настенный трофей снежного барса"
+         },
+         "wall_tiger_trophy": {
+            "display_name": "Настенный трофей тигра"
+         }
+      },
+      "wall_stag_trophy": {
+         "display_name": "Настенный Трофей Оленя",
+         "description": "Традиционное украшение для тех, кто осмелился в дикой природе.",
+         "flavor": "",
+         "wall_gazelle_trophy": {
+            "display_name": "Настенный трофей газели"
+         },
+         "wall_caribou_trophy": {
+            "display_name": "Настенный трофей карибу"
+         },
+         "wall_moose_trophy": {
+            "display_name": "Настенный трофей лося"
+         }
+      },
+      "wall_wolf_trophy": {
+         "display_name": "Настенный Трофей Волка",
+         "description": "Когда-то вызов, теперь трофей.",
+         "flavor": "",
+         "wall_desert_wolf_trophy": {
+            "display_name": "Настенный Трофей Пустынного Вольфа"
+         },
+         "wall_arctic_wolf_trophy": {
+            "display_name": "Настенный Трофей Арктического Волка"
+         },
+         "wall_warg_trophy": {
+            "display_name": "Боевой Настенный Трофей"
+         }
+      },
+      "wall_zilla_trophy": {
+         "display_name": "Настенный Трофей Зиллы",
+         "description": "Этот трофей — доказательство славной победы.",
+         "flavor": "Зилла — грозный враг."
+      }
+   },
+   "trapper": {
+      "studio": {
+         "display_name": "Мастерская Таксидермии",
+         "description": "Позволяет Зверолову начинять и монтировать животных для создания трофеев.",
+         "flavor": ""
+      }
+   }
+}

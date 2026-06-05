@@ -1,0 +1,12 @@
+{
+	"jobs": {
+		"footman": {
+			"footman_buffs": {
+				"speed_buff": {
+					"display_name": "Боевой рывок",
+					"description": "Скорость увеличивается при приближении к врагам."
+				}
+			}
+		}
+	}
+}
